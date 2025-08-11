@@ -76,11 +76,6 @@ All categorical features are label-encoded, and numeric features are scaled usin
 > A friendly interface for predicting smart parking availability. Choose time, location, and other options from the sidebar and see real-time predictions!
 
 
-## ✍️ Author
-
-* **Prince Kumar Gupta**
-  *Aspiring Machine Learning Engineer & Data Analyst*
-
 
 ## 📌 Note
 
