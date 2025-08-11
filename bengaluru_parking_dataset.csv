@@ -1,0 +1,2001 @@
+time,day_of_week,location,is_holiday,weather_condition,total_slots,free_slots_4w,free_slots_2w,event_nearby
+20:00-22:00,Monday,Citywide Parking Overview,0,Sunny,5300,261,1257,0
+14:00-16:00,Tuesday,Freedom Park,0,Sunny,1400,533,249,0
+14:00-16:00,Wednesday,Church Street,0,Windy,500,28,56,1
+08:00-10:00,Sunday,Freedom Park,0,Windy,1400,187,62,1
+16:00-18:00,Thursday,Commercial Street,0,Sunny,325,19,79,0
+20:00-22:00,Sunday,Jayanagar 4th Block,0,Rainy,550,13,25,0
+16:00-18:00,Friday,KR Market Parking Complex,0,Rainy,370,17,35,0
+22:00-24:00,Sunday,"Mantri Square Mall, Malleswaram",1,Windy,2350,783,97,0
+08:00-10:00,Friday,Church Street,0,Rainy,500,61,93,1
+12:00-14:00,Saturday,Citywide Parking Overview,0,Rainy,5300,233,819,0
+22:00-24:00,Tuesday,Indiranagar 100 Feet Road,0,Windy,400,31,98,1
+06:00-08:00,Wednesday,Church Street,0,Rainy,500,56,62,1
+22:00-24:00,Sunday,"Phoenix Marketcity, Whitefield",0,Windy,2200,579,121,0
+02:00-04:00,Thursday,KR Market Parking Complex,0,Sunny,370,36,73,0
+14:00-16:00,Sunday,"Total Mall, Old Airport Road",1,Cloudy,300,27,63,0
+00:00-02:00,Monday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,668,186,0
+14:00-16:00,Saturday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,663,198,0
+22:00-24:00,Friday,Indiranagar 100 Feet Road,0,Windy,400,56,62,0
+08:00-10:00,Monday,"Phoenix Marketcity, Whitefield",1,Rainy,2200,336,101,0
+20:00-22:00,Tuesday,Citywide Parking Overview,0,Sunny,5300,237,565,0
+00:00-02:00,Sunday,"Total Mall, Old Airport Road",1,Sunny,300,38,35,0
+20:00-22:00,Monday,KR Market Parking Complex,0,Rainy,370,12,59,0
+02:00-04:00,Sunday,Indiranagar 100 Feet Road,0,Sunny,400,45,40,0
+02:00-04:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,282,165,0
+22:00-24:00,Wednesday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,678,220,0
+06:00-08:00,Sunday,Church Street,0,Windy,500,41,56,0
+22:00-24:00,Saturday,Brigade Road,1,Sunny,385,29,88,1
+08:00-10:00,Thursday,Commercial Street,0,Sunny,325,36,62,0
+02:00-04:00,Wednesday,JC Road Multi-Level Parking,0,Sunny,300,40,25,1
+12:00-14:00,Sunday,"Manyata Tech Park, Hebbal",0,Windy,1700,365,162,0
+00:00-02:00,Monday,KR Market Parking Complex,1,Sunny,370,25,81,0
+06:00-08:00,Friday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,1291,199,0
+04:00-06:00,Monday,Commercial Street,0,Windy,325,21,142,0
+06:00-08:00,Wednesday,"International Tech Park (ITPL), Whitefield",1,Sunny,1400,211,79,0
+10:00-12:00,Saturday,"Total Mall, Old Airport Road",0,Rainy,300,11,52,0
+14:00-16:00,Friday,Citywide Parking Overview,0,Sunny,5300,662,2247,0
+08:00-10:00,Friday,"Manyata Tech Park, Hebbal",0,Windy,1700,489,192,0
+08:00-10:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,395,107,0
+08:00-10:00,Tuesday,Citywide Parking Overview,0,Sunny,5300,988,1973,0
+12:00-14:00,Saturday,Jayanagar 4th Block,0,Rainy,550,86,123,0
+10:00-12:00,Monday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,416,86,1
+00:00-02:00,Tuesday,KR Market Parking Complex,1,Windy,370,7,96,1
+12:00-14:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,205,102,0
+08:00-10:00,Friday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,345,203,0
+16:00-18:00,Wednesday,JC Road Multi-Level Parking,0,Windy,300,51,24,0
+06:00-08:00,Sunday,Commercial Street,0,Windy,325,29,57,0
+14:00-16:00,Saturday,"Mantri Square Mall, Malleswaram",0,Windy,2350,398,194,0
+06:00-08:00,Saturday,JC Road Multi-Level Parking,0,Sunny,300,35,26,0
+08:00-10:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,480,147,0
+08:00-10:00,Friday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,320,167,1
+14:00-16:00,Monday,JC Road Multi-Level Parking,0,Sunny,300,58,61,0
+16:00-18:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Windy,2200,326,112,0
+22:00-24:00,Sunday,Jayanagar 4th Block,1,Cloudy,550,33,138,0
+04:00-06:00,Saturday,"International Tech Park (ITPL), Whitefield",1,Windy,1400,163,150,0
+02:00-04:00,Friday,Jayanagar 4th Block,0,Rainy,550,159,126,0
+12:00-14:00,Wednesday,KR Market Parking Complex,0,Cloudy,370,22,63,1
+10:00-12:00,Tuesday,Freedom Park,0,Sunny,1400,273,260,0
+02:00-04:00,Saturday,"Total Mall, Old Airport Road",0,Rainy,300,25,36,1
+20:00-22:00,Sunday,Brigade Road,0,Windy,385,12,53,1
+16:00-18:00,Tuesday,Freedom Park,0,Cloudy,1400,127,57,1
+14:00-16:00,Saturday,JC Road Multi-Level Parking,0,Sunny,300,37,47,0
+18:00-20:00,Sunday,"Total Mall, Old Airport Road",0,Windy,300,17,20,1
+20:00-22:00,Sunday,Indiranagar 100 Feet Road,0,Rainy,400,20,42,0
+22:00-24:00,Monday,Commercial Street,0,Rainy,325,25,130,0
+16:00-18:00,Friday,Brigade Road,0,Windy,385,20,34,0
+16:00-18:00,Tuesday,Jayanagar 4th Block,0,Rainy,550,40,35,0
+08:00-10:00,Monday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,255,77,1
+02:00-04:00,Sunday,Commercial Street,0,Windy,325,19,61,0
+08:00-10:00,Saturday,Freedom Park,1,Sunny,1400,445,115,0
+04:00-06:00,Monday,Freedom Park,0,Cloudy,1400,232,178,1
+02:00-04:00,Wednesday,Commercial Street,0,Cloudy,325,22,78,0
+18:00-20:00,Saturday,Commercial Street,0,Rainy,325,11,33,1
+20:00-22:00,Saturday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,124,37,0
+22:00-24:00,Tuesday,"Total Mall, Old Airport Road",0,Cloudy,300,70,87,0
+20:00-22:00,Friday,Citywide Parking Overview,0,Cloudy,5300,316,936,0
+16:00-18:00,Wednesday,"Manyata Tech Park, Hebbal",0,Sunny,1700,159,115,0
+08:00-10:00,Friday,Freedom Park,0,Cloudy,1400,500,124,0
+00:00-02:00,Monday,Freedom Park,0,Windy,1400,372,116,0
+12:00-14:00,Sunday,Commercial Street,1,Sunny,325,21,76,0
+18:00-20:00,Friday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,144,80,0
+10:00-12:00,Wednesday,Commercial Street,0,Sunny,325,44,96,0
+12:00-14:00,Tuesday,KR Market Parking Complex,0,Rainy,370,38,126,0
+08:00-10:00,Monday,Indiranagar 100 Feet Road,0,Sunny,400,66,130,0
+18:00-20:00,Saturday,"Total Mall, Old Airport Road",0,Cloudy,300,16,35,0
+20:00-22:00,Wednesday,Church Street,0,Rainy,500,42,47,0
+14:00-16:00,Thursday,"Manyata Tech Park, Hebbal",0,Sunny,1700,580,141,1
+00:00-02:00,Monday,Commercial Street,1,Cloudy,325,21,115,0
+00:00-02:00,Wednesday,"Phoenix Marketcity, Whitefield",1,Rainy,2200,466,103,0
+14:00-16:00,Friday,KR Market Parking Complex,0,Sunny,370,47,147,0
+22:00-24:00,Friday,Indiranagar 100 Feet Road,0,Windy,400,45,152,0
+18:00-20:00,Sunday,Church Street,0,Cloudy,500,35,53,0
+08:00-10:00,Tuesday,Freedom Park,0,Sunny,1400,456,297,0
+12:00-14:00,Wednesday,"Total Mall, Old Airport Road",0,Sunny,300,58,95,0
+14:00-16:00,Sunday,Commercial Street,1,Cloudy,325,25,59,1
+14:00-16:00,Wednesday,"Orion Mall, Malleshwaram",1,Sunny,6200,1061,291,0
+06:00-08:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,332,118,0
+04:00-06:00,Saturday,Jayanagar 4th Block,0,Cloudy,550,112,140,0
+12:00-14:00,Wednesday,KR Market Parking Complex,0,Windy,370,33,179,0
+22:00-24:00,Sunday,Commercial Street,0,Sunny,325,11,33,0
+12:00-14:00,Monday,"Total Mall, Old Airport Road",0,Cloudy,300,22,79,1
+12:00-14:00,Wednesday,Freedom Park,1,Rainy,1400,161,85,0
+00:00-02:00,Thursday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,510,134,0
+16:00-18:00,Wednesday,Citywide Parking Overview,0,Cloudy,5300,199,643,0
+14:00-16:00,Sunday,"Total Mall, Old Airport Road",0,Windy,300,40,33,0
+00:00-02:00,Tuesday,JC Road Multi-Level Parking,0,Rainy,300,52,33,1
+02:00-04:00,Friday,Brigade Road,0,Sunny,385,31,101,0
+20:00-22:00,Saturday,"Total Mall, Old Airport Road",1,Windy,300,18,17,0
+14:00-16:00,Wednesday,"Total Mall, Old Airport Road",0,Cloudy,300,33,63,1
+18:00-20:00,Saturday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,306,42,0
+04:00-06:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,196,298,0
+06:00-08:00,Sunday,"Mantri Square Mall, Malleswaram",0,Windy,2350,479,262,0
+12:00-14:00,Sunday,Freedom Park,0,Windy,1400,332,82,0
+14:00-16:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,178,136,0
+02:00-04:00,Monday,"Manyata Tech Park, Hebbal",0,Sunny,1700,255,180,0
+06:00-08:00,Thursday,KR Market Parking Complex,1,Rainy,370,20,61,0
+02:00-04:00,Wednesday,Jayanagar 4th Block,0,Cloudy,550,147,191,0
+12:00-14:00,Sunday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,404,120,0
+20:00-22:00,Saturday,Commercial Street,0,Sunny,325,9,28,0
+20:00-22:00,Friday,"Total Mall, Old Airport Road",0,Sunny,300,27,27,0
+20:00-22:00,Monday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,277,50,1
+10:00-12:00,Thursday,Commercial Street,0,Cloudy,325,30,70,0
+18:00-20:00,Wednesday,Church Street,1,Cloudy,500,22,66,0
+00:00-02:00,Thursday,Citywide Parking Overview,0,Cloudy,5300,1014,1301,0
+04:00-06:00,Tuesday,"Total Mall, Old Airport Road",0,Windy,300,58,120,0
+10:00-12:00,Wednesday,"Orion Mall, Malleshwaram",1,Rainy,6200,1454,408,0
+10:00-12:00,Thursday,Church Street,0,Windy,500,93,38,1
+18:00-20:00,Saturday,Freedom Park,0,Windy,1400,64,48,0
+02:00-04:00,Friday,Jayanagar 4th Block,0,Rainy,550,121,108,0
+20:00-22:00,Friday,Indiranagar 100 Feet Road,0,Rainy,400,17,32,0
+08:00-10:00,Monday,Brigade Road,0,Cloudy,385,33,71,0
+16:00-18:00,Tuesday,Church Street,1,Rainy,500,35,50,0
+12:00-14:00,Thursday,JC Road Multi-Level Parking,0,Windy,300,79,80,0
+06:00-08:00,Saturday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,503,100,0
+20:00-22:00,Monday,Jayanagar 4th Block,0,Windy,550,53,53,0
+16:00-18:00,Tuesday,Jayanagar 4th Block,1,Sunny,550,17,19,0
+00:00-02:00,Wednesday,"Manyata Tech Park, Hebbal",0,Windy,1700,678,375,0
+12:00-14:00,Friday,"Total Mall, Old Airport Road",0,Windy,300,23,65,1
+08:00-10:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,844,174,0
+14:00-16:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,616,305,0
+14:00-16:00,Sunday,JC Road Multi-Level Parking,0,Sunny,300,42,73,0
+08:00-10:00,Tuesday,"Orion Mall, Malleshwaram",0,Rainy,6200,2445,160,1
+12:00-14:00,Saturday,Indiranagar 100 Feet Road,0,Windy,400,26,54,0
+08:00-10:00,Sunday,Church Street,0,Sunny,500,38,147,0
+04:00-06:00,Thursday,KR Market Parking Complex,0,Windy,370,20,45,1
+08:00-10:00,Tuesday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,364,231,0
+00:00-02:00,Friday,KR Market Parking Complex,0,Windy,370,21,122,0
+22:00-24:00,Monday,"Orion Mall, Malleshwaram",1,Rainy,6200,1775,331,0
+04:00-06:00,Saturday,"Manyata Tech Park, Hebbal",1,Cloudy,1700,534,83,0
+12:00-14:00,Friday,KR Market Parking Complex,1,Windy,370,14,88,0
+12:00-14:00,Wednesday,Jayanagar 4th Block,0,Sunny,550,45,77,1
+18:00-20:00,Friday,Citywide Parking Overview,0,Windy,5300,305,551,0
+12:00-14:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,627,166,0
+06:00-08:00,Thursday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,754,219,0
+00:00-02:00,Saturday,Brigade Road,0,Windy,385,26,68,0
+06:00-08:00,Wednesday,KR Market Parking Complex,0,Windy,370,34,79,0
+10:00-12:00,Monday,Indiranagar 100 Feet Road,0,Rainy,400,81,51,0
+22:00-24:00,Tuesday,Church Street,0,Cloudy,500,106,104,0
+18:00-20:00,Thursday,KR Market Parking Complex,0,Sunny,370,12,76,0
+18:00-20:00,Thursday,Indiranagar 100 Feet Road,0,Cloudy,400,28,62,0
+22:00-24:00,Monday,KR Market Parking Complex,0,Windy,370,20,105,0
+00:00-02:00,Wednesday,Brigade Road,0,Rainy,385,47,106,0
+06:00-08:00,Friday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,734,265,0
+06:00-08:00,Thursday,Jayanagar 4th Block,0,Rainy,550,172,172,0
+04:00-06:00,Saturday,JC Road Multi-Level Parking,1,Rainy,300,50,24,1
+12:00-14:00,Sunday,KR Market Parking Complex,0,Rainy,370,13,56,0
+16:00-18:00,Tuesday,Church Street,0,Cloudy,500,36,61,0
+22:00-24:00,Sunday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,600,208,0
+22:00-24:00,Sunday,Jayanagar 4th Block,0,Rainy,550,57,82,1
+04:00-06:00,Tuesday,Jayanagar 4th Block,0,Sunny,550,61,72,1
+02:00-04:00,Sunday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,328,64,0
+20:00-22:00,Tuesday,"Total Mall, Old Airport Road",0,Cloudy,300,25,32,0
+22:00-24:00,Saturday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,492,118,0
+02:00-04:00,Monday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,238,106,1
+14:00-16:00,Saturday,Freedom Park,0,Windy,1400,328,120,0
+08:00-10:00,Saturday,JC Road Multi-Level Parking,0,Windy,300,33,21,0
+14:00-16:00,Wednesday,Commercial Street,0,Windy,325,43,58,0
+14:00-16:00,Tuesday,Jayanagar 4th Block,1,Sunny,550,49,140,0
+12:00-14:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Windy,2200,627,206,0
+06:00-08:00,Sunday,Commercial Street,0,Rainy,325,22,74,0
+12:00-14:00,Wednesday,Church Street,0,Rainy,500,107,154,0
+10:00-12:00,Sunday,Commercial Street,0,Windy,325,21,66,0
+10:00-12:00,Friday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,1183,172,0
+22:00-24:00,Monday,"Total Mall, Old Airport Road",0,Rainy,300,18,66,1
+08:00-10:00,Sunday,"Total Mall, Old Airport Road",0,Sunny,300,24,40,0
+00:00-02:00,Wednesday,Freedom Park,0,Rainy,1400,149,88,1
+10:00-12:00,Thursday,"Orion Mall, Malleshwaram",0,Rainy,6200,2059,488,0
+10:00-12:00,Monday,Church Street,1,Windy,500,34,63,0
+00:00-02:00,Thursday,"Total Mall, Old Airport Road",0,Rainy,300,26,51,0
+06:00-08:00,Wednesday,KR Market Parking Complex,0,Cloudy,370,16,147,0
+14:00-16:00,Sunday,Indiranagar 100 Feet Road,0,Sunny,400,58,38,0
+00:00-02:00,Monday,Brigade Road,0,Cloudy,385,18,176,0
+06:00-08:00,Friday,"Total Mall, Old Airport Road",0,Sunny,300,42,48,0
+02:00-04:00,Thursday,Commercial Street,0,Sunny,325,48,76,0
+06:00-08:00,Tuesday,JC Road Multi-Level Parking,0,Rainy,300,103,83,0
+12:00-14:00,Thursday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,739,157,0
+12:00-14:00,Wednesday,Commercial Street,0,Sunny,325,21,103,1
+00:00-02:00,Tuesday,Citywide Parking Overview,0,Cloudy,5300,677,1175,0
+00:00-02:00,Monday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,969,233,0
+22:00-24:00,Sunday,Freedom Park,0,Sunny,1400,431,100,0
+18:00-20:00,Monday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,383,89,0
+20:00-22:00,Friday,Citywide Parking Overview,0,Rainy,5300,353,1206,0
+04:00-06:00,Saturday,"Manyata Tech Park, Hebbal",0,Windy,1700,533,63,0
+16:00-18:00,Sunday,Commercial Street,0,Sunny,325,14,18,0
+08:00-10:00,Wednesday,KR Market Parking Complex,0,Rainy,370,22,61,1
+08:00-10:00,Sunday,KR Market Parking Complex,0,Windy,370,17,92,0
+22:00-24:00,Thursday,"Manyata Tech Park, Hebbal",0,Sunny,1700,829,224,0
+16:00-18:00,Friday,Church Street,0,Windy,500,44,85,0
+06:00-08:00,Saturday,JC Road Multi-Level Parking,0,Sunny,300,27,17,0
+02:00-04:00,Thursday,Jayanagar 4th Block,0,Cloudy,550,152,189,0
+18:00-20:00,Monday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,410,185,0
+06:00-08:00,Sunday,Commercial Street,0,Cloudy,325,28,56,0
+22:00-24:00,Monday,Commercial Street,0,Cloudy,325,32,62,0
+18:00-20:00,Tuesday,Freedom Park,0,Rainy,1400,290,98,0
+16:00-18:00,Wednesday,Commercial Street,0,Cloudy,325,25,68,0
+18:00-20:00,Friday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,140,103,1
+12:00-14:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,611,221,0
+04:00-06:00,Wednesday,KR Market Parking Complex,0,Windy,370,16,72,1
+06:00-08:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,866,396,0
+08:00-10:00,Thursday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,794,254,0
+00:00-02:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,363,140,1
+14:00-16:00,Friday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,723,310,0
+10:00-12:00,Saturday,JC Road Multi-Level Parking,0,Cloudy,300,38,33,1
+16:00-18:00,Thursday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,284,37,1
+00:00-02:00,Saturday,Church Street,1,Rainy,500,42,71,0
+00:00-02:00,Monday,Indiranagar 100 Feet Road,0,Cloudy,400,48,55,1
+18:00-20:00,Monday,Freedom Park,0,Rainy,1400,156,24,1
+18:00-20:00,Wednesday,"Total Mall, Old Airport Road",0,Rainy,300,27,63,0
+10:00-12:00,Thursday,KR Market Parking Complex,0,Windy,370,29,122,0
+20:00-22:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,131,54,0
+04:00-06:00,Saturday,Indiranagar 100 Feet Road,0,Rainy,400,37,73,0
+02:00-04:00,Tuesday,Freedom Park,0,Sunny,1400,402,197,0
+12:00-14:00,Tuesday,Citywide Parking Overview,0,Windy,5300,567,2170,0
+00:00-02:00,Tuesday,JC Road Multi-Level Parking,0,Sunny,300,79,57,0
+14:00-16:00,Wednesday,Citywide Parking Overview,0,Rainy,5300,787,2417,0
+16:00-18:00,Tuesday,KR Market Parking Complex,0,Windy,370,16,59,0
+10:00-12:00,Friday,Jayanagar 4th Block,0,Rainy,550,75,200,0
+18:00-20:00,Sunday,Freedom Park,0,Cloudy,1400,151,36,0
+06:00-08:00,Sunday,JC Road Multi-Level Parking,1,Cloudy,300,30,21,0
+10:00-12:00,Monday,"Total Mall, Old Airport Road",0,Sunny,300,15,28,1
+08:00-10:00,Tuesday,"Total Mall, Old Airport Road",0,Sunny,300,45,99,0
+10:00-12:00,Tuesday,"Total Mall, Old Airport Road",0,Cloudy,300,63,126,0
+12:00-14:00,Friday,Jayanagar 4th Block,1,Cloudy,550,53,71,0
+18:00-20:00,Monday,Freedom Park,0,Sunny,1400,164,120,0
+02:00-04:00,Saturday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,672,229,1
+16:00-18:00,Saturday,KR Market Parking Complex,0,Rainy,370,12,47,0
+18:00-20:00,Tuesday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1030,239,0
+12:00-14:00,Sunday,"Total Mall, Old Airport Road",0,Sunny,300,26,61,0
+14:00-16:00,Saturday,Jayanagar 4th Block,0,Rainy,550,82,92,0
+10:00-12:00,Thursday,"International Tech Park (ITPL), Whitefield",1,Rainy,1400,182,105,0
+10:00-12:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,648,110,0
+12:00-14:00,Friday,Commercial Street,0,Sunny,325,41,129,0
+22:00-24:00,Friday,Indiranagar 100 Feet Road,1,Rainy,400,35,111,0
+16:00-18:00,Monday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,512,139,0
+00:00-02:00,Thursday,Church Street,0,Cloudy,500,66,112,0
+08:00-10:00,Saturday,Freedom Park,0,Windy,1400,318,145,1
+00:00-02:00,Tuesday,Freedom Park,0,Rainy,1400,554,275,0
+14:00-16:00,Thursday,"Manyata Tech Park, Hebbal",0,Sunny,1700,360,142,0
+12:00-14:00,Monday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,837,115,0
+00:00-02:00,Monday,Indiranagar 100 Feet Road,0,Cloudy,400,76,65,1
+16:00-18:00,Saturday,JC Road Multi-Level Parking,0,Rainy,300,14,14,1
+16:00-18:00,Sunday,JC Road Multi-Level Parking,0,Rainy,300,14,22,0
+14:00-16:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,125,211,0
+00:00-02:00,Friday,Commercial Street,1,Cloudy,325,14,46,1
+02:00-04:00,Monday,"International Tech Park (ITPL), Whitefield",1,Rainy,1400,273,136,0
+08:00-10:00,Wednesday,Jayanagar 4th Block,0,Rainy,550,102,78,0
+00:00-02:00,Monday,Commercial Street,0,Cloudy,325,51,151,0
+18:00-20:00,Monday,Church Street,1,Cloudy,500,34,44,0
+14:00-16:00,Tuesday,Indiranagar 100 Feet Road,0,Sunny,400,73,139,0
+12:00-14:00,Friday,Jayanagar 4th Block,0,Sunny,550,55,99,1
+08:00-10:00,Sunday,"Total Mall, Old Airport Road",0,Sunny,300,22,72,0
+22:00-24:00,Wednesday,Brigade Road,0,Sunny,385,22,75,0
+20:00-22:00,Monday,JC Road Multi-Level Parking,0,Sunny,300,33,35,0
+22:00-24:00,Friday,"Total Mall, Old Airport Road",0,Sunny,300,19,64,1
+04:00-06:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,755,268,0
+20:00-22:00,Sunday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,322,56,0
+12:00-14:00,Thursday,KR Market Parking Complex,0,Rainy,370,37,176,0
+18:00-20:00,Sunday,Jayanagar 4th Block,0,Rainy,550,30,47,0
+10:00-12:00,Monday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1981,198,1
+20:00-22:00,Saturday,Indiranagar 100 Feet Road,0,Cloudy,400,15,55,0
+00:00-02:00,Thursday,Brigade Road,0,Cloudy,385,36,119,0
+18:00-20:00,Tuesday,Commercial Street,1,Cloudy,325,17,36,0
+10:00-12:00,Thursday,"Orion Mall, Malleshwaram",0,Rainy,6200,2918,464,0
+14:00-16:00,Wednesday,"Phoenix Marketcity, Whitefield",1,Windy,2200,509,181,0
+00:00-02:00,Friday,"Manyata Tech Park, Hebbal",0,Sunny,1700,299,132,1
+00:00-02:00,Wednesday,"Total Mall, Old Airport Road",0,Windy,300,50,143,0
+16:00-18:00,Thursday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,353,113,0
+12:00-14:00,Thursday,Brigade Road,0,Windy,385,46,86,0
+16:00-18:00,Sunday,Jayanagar 4th Block,0,Sunny,550,29,25,0
+14:00-16:00,Friday,Freedom Park,0,Sunny,1400,524,232,0
+06:00-08:00,Friday,Freedom Park,0,Cloudy,1400,283,188,0
+02:00-04:00,Friday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,1022,268,0
+06:00-08:00,Sunday,Indiranagar 100 Feet Road,0,Sunny,400,67,59,0
+04:00-06:00,Monday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,525,217,0
+02:00-04:00,Friday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,596,275,0
+14:00-16:00,Wednesday,KR Market Parking Complex,0,Cloudy,370,45,142,0
+16:00-18:00,Monday,JC Road Multi-Level Parking,0,Windy,300,28,43,0
+00:00-02:00,Monday,"Manyata Tech Park, Hebbal",0,Windy,1700,483,141,0
+04:00-06:00,Tuesday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,303,181,0
+14:00-16:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,332,137,1
+02:00-04:00,Monday,"Manyata Tech Park, Hebbal",1,Windy,1700,244,119,0
+20:00-22:00,Sunday,"Mantri Square Mall, Malleswaram",0,Windy,2350,325,59,0
+14:00-16:00,Friday,"Orion Mall, Malleshwaram",0,Rainy,6200,3116,545,0
+00:00-02:00,Friday,Commercial Street,0,Rainy,325,38,119,0
+22:00-24:00,Thursday,Jayanagar 4th Block,0,Cloudy,550,108,151,0
+10:00-12:00,Sunday,JC Road Multi-Level Parking,0,Windy,300,26,50,1
+00:00-02:00,Tuesday,"Phoenix Marketcity, Whitefield",1,Sunny,2200,348,128,0
+20:00-22:00,Sunday,"International Tech Park (ITPL), Whitefield",1,Rainy,1400,198,30,1
+14:00-16:00,Friday,"Manyata Tech Park, Hebbal",1,Windy,1700,365,76,0
+12:00-14:00,Monday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,606,140,0
+08:00-10:00,Wednesday,KR Market Parking Complex,0,Rainy,370,33,144,0
+00:00-02:00,Saturday,Brigade Road,0,Windy,385,10,37,0
+20:00-22:00,Saturday,KR Market Parking Complex,1,Cloudy,370,14,38,1
+14:00-16:00,Thursday,JC Road Multi-Level Parking,0,Sunny,300,33,43,0
+08:00-10:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,264,128,1
+16:00-18:00,Sunday,Indiranagar 100 Feet Road,0,Cloudy,400,33,20,0
+06:00-08:00,Sunday,Church Street,1,Sunny,500,90,91,1
+04:00-06:00,Friday,Church Street,0,Sunny,500,38,61,1
+12:00-14:00,Tuesday,Jayanagar 4th Block,1,Windy,550,47,63,0
+10:00-12:00,Thursday,KR Market Parking Complex,1,Cloudy,370,21,91,0
+06:00-08:00,Monday,"Orion Mall, Malleshwaram",1,Sunny,6200,583,441,0
+16:00-18:00,Wednesday,Citywide Parking Overview,1,Windy,5300,187,761,0
+06:00-08:00,Thursday,Jayanagar 4th Block,1,Rainy,550,61,66,0
+06:00-08:00,Sunday,Freedom Park,0,Windy,1400,392,154,1
+08:00-10:00,Wednesday,JC Road Multi-Level Parking,0,Rainy,300,45,54,0
+12:00-14:00,Thursday,Indiranagar 100 Feet Road,0,Rainy,400,28,46,1
+14:00-16:00,Friday,Church Street,0,Sunny,500,80,155,0
+02:00-04:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,681,157,0
+12:00-14:00,Tuesday,JC Road Multi-Level Parking,0,Cloudy,300,35,96,0
+06:00-08:00,Sunday,"Total Mall, Old Airport Road",0,Sunny,300,27,34,0
+08:00-10:00,Tuesday,Freedom Park,0,Windy,1400,278,133,1
+18:00-20:00,Friday,"Manyata Tech Park, Hebbal",0,Rainy,1700,233,63,1
+18:00-20:00,Sunday,KR Market Parking Complex,0,Cloudy,370,13,40,0
+16:00-18:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,129,74,0
+12:00-14:00,Saturday,Citywide Parking Overview,0,Cloudy,5300,485,964,0
+08:00-10:00,Sunday,Commercial Street,0,Windy,325,14,73,1
+14:00-16:00,Saturday,Freedom Park,0,Cloudy,1400,176,81,0
+06:00-08:00,Sunday,Brigade Road,0,Windy,385,31,30,0
+00:00-02:00,Sunday,Commercial Street,0,Cloudy,325,19,95,0
+22:00-24:00,Thursday,Jayanagar 4th Block,1,Cloudy,550,102,49,0
+22:00-24:00,Sunday,KR Market Parking Complex,1,Cloudy,370,23,83,0
+02:00-04:00,Thursday,JC Road Multi-Level Parking,0,Cloudy,300,73,38,0
+04:00-06:00,Friday,"Total Mall, Old Airport Road",0,Windy,300,19,87,1
+22:00-24:00,Thursday,Indiranagar 100 Feet Road,0,Windy,400,45,57,0
+02:00-04:00,Thursday,Indiranagar 100 Feet Road,0,Cloudy,400,87,138,0
+10:00-12:00,Sunday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,394,98,0
+10:00-12:00,Friday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1277,704,0
+10:00-12:00,Thursday,"Total Mall, Old Airport Road",0,Cloudy,300,43,110,0
+18:00-20:00,Tuesday,Jayanagar 4th Block,0,Cloudy,550,55,32,0
+08:00-10:00,Tuesday,JC Road Multi-Level Parking,0,Sunny,300,80,69,0
+20:00-22:00,Thursday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1847,300,0
+16:00-18:00,Monday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,436,93,0
+12:00-14:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,1266,360,0
+04:00-06:00,Tuesday,Indiranagar 100 Feet Road,0,Cloudy,400,69,94,0
+10:00-12:00,Friday,"Mantri Square Mall, Malleswaram",0,Windy,2350,988,352,0
+14:00-16:00,Friday,Brigade Road,1,Rainy,385,17,58,1
+18:00-20:00,Monday,Citywide Parking Overview,0,Windy,5300,314,971,0
+06:00-08:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,142,116,1
+18:00-20:00,Monday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,307,148,0
+00:00-02:00,Tuesday,Church Street,0,Cloudy,500,116,155,0
+08:00-10:00,Sunday,Jayanagar 4th Block,0,Cloudy,550,58,78,0
+04:00-06:00,Sunday,Indiranagar 100 Feet Road,0,Rainy,400,44,55,0
+04:00-06:00,Thursday,"Orion Mall, Malleshwaram",0,Sunny,6200,2141,582,0
+16:00-18:00,Saturday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,199,89,0
+20:00-22:00,Wednesday,Jayanagar 4th Block,0,Cloudy,550,64,84,0
+18:00-20:00,Sunday,Jayanagar 4th Block,0,Rainy,550,30,33,0
+00:00-02:00,Saturday,Freedom Park,1,Cloudy,1400,350,98,0
+16:00-18:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Windy,2200,215,66,1
+20:00-22:00,Friday,"Mantri Square Mall, Malleswaram",0,Windy,2350,305,56,1
+22:00-24:00,Thursday,"Orion Mall, Malleshwaram",0,Sunny,6200,2441,237,1
+10:00-12:00,Friday,Church Street,0,Sunny,500,78,128,0
+10:00-12:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,1036,165,0
+08:00-10:00,Wednesday,Indiranagar 100 Feet Road,0,Windy,400,64,99,0
+14:00-16:00,Tuesday,KR Market Parking Complex,0,Cloudy,370,20,72,0
+14:00-16:00,Tuesday,"Mantri Square Mall, Malleswaram",1,Sunny,2350,596,168,0
+18:00-20:00,Wednesday,KR Market Parking Complex,0,Sunny,370,13,68,0
+20:00-22:00,Thursday,Indiranagar 100 Feet Road,0,Rainy,400,14,54,0
+12:00-14:00,Sunday,Brigade Road,0,Cloudy,385,20,101,0
+20:00-22:00,Friday,Commercial Street,1,Sunny,325,14,37,0
+14:00-16:00,Tuesday,"Orion Mall, Malleshwaram",1,Cloudy,6200,2475,440,0
+20:00-22:00,Monday,JC Road Multi-Level Parking,0,Cloudy,300,12,17,1
+18:00-20:00,Saturday,KR Market Parking Complex,1,Sunny,370,15,27,0
+02:00-04:00,Wednesday,JC Road Multi-Level Parking,1,Sunny,300,36,76,0
+04:00-06:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Windy,2350,1061,214,0
+22:00-24:00,Tuesday,Freedom Park,0,Rainy,1400,226,290,0
+12:00-14:00,Tuesday,KR Market Parking Complex,0,Rainy,370,17,68,1
+14:00-16:00,Monday,JC Road Multi-Level Parking,0,Cloudy,300,84,77,0
+14:00-16:00,Monday,"Total Mall, Old Airport Road",0,Sunny,300,51,62,0
+04:00-06:00,Friday,Commercial Street,0,Cloudy,325,15,28,1
+14:00-16:00,Tuesday,"Manyata Tech Park, Hebbal",0,Windy,1700,357,195,0
+14:00-16:00,Tuesday,KR Market Parking Complex,0,Windy,370,49,91,0
+06:00-08:00,Wednesday,JC Road Multi-Level Parking,0,Rainy,300,80,37,0
+00:00-02:00,Thursday,"Manyata Tech Park, Hebbal",0,Rainy,1700,337,280,0
+16:00-18:00,Sunday,Jayanagar 4th Block,0,Rainy,550,41,48,1
+14:00-16:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,280,104,1
+08:00-10:00,Sunday,Citywide Parking Overview,0,Cloudy,5300,510,733,0
+16:00-18:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,148,44,0
+08:00-10:00,Monday,Brigade Road,0,Rainy,385,55,138,0
+04:00-06:00,Friday,Indiranagar 100 Feet Road,0,Rainy,400,88,80,0
+08:00-10:00,Thursday,Jayanagar 4th Block,0,Rainy,550,65,156,0
+20:00-22:00,Wednesday,JC Road Multi-Level Parking,0,Rainy,300,42,41,0
+08:00-10:00,Friday,KR Market Parking Complex,0,Rainy,370,26,177,0
+10:00-12:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,705,317,0
+14:00-16:00,Friday,Commercial Street,0,Windy,325,20,40,1
+14:00-16:00,Wednesday,Commercial Street,1,Cloudy,325,31,49,0
+04:00-06:00,Saturday,Freedom Park,0,Cloudy,1400,221,128,0
+06:00-08:00,Wednesday,Church Street,0,Sunny,500,71,157,0
+14:00-16:00,Saturday,JC Road Multi-Level Parking,1,Windy,300,21,50,1
+18:00-20:00,Wednesday,Citywide Parking Overview,0,Sunny,5300,305,620,0
+16:00-18:00,Saturday,Brigade Road,0,Sunny,385,8,21,0
+08:00-10:00,Sunday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,500,165,0
+16:00-18:00,Sunday,Freedom Park,0,Cloudy,1400,52,83,0
+18:00-20:00,Wednesday,Commercial Street,0,Sunny,325,10,55,0
+06:00-08:00,Saturday,JC Road Multi-Level Parking,0,Cloudy,300,39,21,0
+22:00-24:00,Sunday,JC Road Multi-Level Parking,0,Rainy,300,60,30,0
+02:00-04:00,Monday,Indiranagar 100 Feet Road,0,Cloudy,400,101,125,0
+20:00-22:00,Saturday,"Phoenix Marketcity, Whitefield",1,Cloudy,2200,232,46,0
+22:00-24:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Windy,2200,983,159,0
+20:00-22:00,Monday,Commercial Street,0,Windy,325,8,69,0
+16:00-18:00,Monday,Church Street,0,Windy,500,39,53,0
+04:00-06:00,Friday,"Phoenix Marketcity, Whitefield",1,Cloudy,2200,477,206,1
+20:00-22:00,Saturday,"Total Mall, Old Airport Road",1,Rainy,300,5,31,0
+18:00-20:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,152,35,0
+06:00-08:00,Friday,Commercial Street,0,Sunny,325,27,155,0
+12:00-14:00,Monday,Citywide Parking Overview,0,Windy,5300,359,3038,0
+12:00-14:00,Thursday,Indiranagar 100 Feet Road,1,Cloudy,400,36,58,1
+10:00-12:00,Friday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,904,205,0
+12:00-14:00,Friday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,202,266,0
+06:00-08:00,Monday,Citywide Parking Overview,0,Cloudy,5300,494,1503,0
+18:00-20:00,Wednesday,"Orion Mall, Malleshwaram",0,Windy,6200,1142,263,0
+10:00-12:00,Wednesday,Freedom Park,0,Windy,1400,171,146,1
+12:00-14:00,Monday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,772,164,0
+20:00-22:00,Tuesday,Brigade Road,0,Windy,385,22,86,0
+04:00-06:00,Monday,JC Road Multi-Level Parking,0,Rainy,300,45,67,0
+12:00-14:00,Monday,"Orion Mall, Malleshwaram",0,Sunny,6200,3902,236,0
+10:00-12:00,Saturday,Citywide Parking Overview,1,Sunny,5300,447,614,0
+14:00-16:00,Sunday,JC Road Multi-Level Parking,0,Cloudy,300,71,53,0
+12:00-14:00,Sunday,Freedom Park,0,Windy,1400,222,95,0
+08:00-10:00,Thursday,Commercial Street,0,Rainy,325,32,143,0
+22:00-24:00,Thursday,Church Street,1,Windy,500,40,88,0
+22:00-24:00,Wednesday,Commercial Street,0,Windy,325,58,102,0
+18:00-20:00,Friday,Indiranagar 100 Feet Road,0,Sunny,400,55,50,0
+12:00-14:00,Monday,"Manyata Tech Park, Hebbal",0,Windy,1700,490,67,1
+02:00-04:00,Saturday,Jayanagar 4th Block,0,Cloudy,550,67,90,0
+16:00-18:00,Monday,Church Street,0,Windy,500,61,50,0
+00:00-02:00,Friday,"Total Mall, Old Airport Road",0,Windy,300,56,95,0
+00:00-02:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,239,49,1
+06:00-08:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,910,290,0
+18:00-20:00,Thursday,Commercial Street,0,Rainy,325,9,49,0
+10:00-12:00,Tuesday,KR Market Parking Complex,0,Rainy,370,17,47,1
+22:00-24:00,Sunday,"Orion Mall, Malleshwaram",0,Windy,6200,753,261,0
+16:00-18:00,Monday,"Total Mall, Old Airport Road",0,Cloudy,300,21,55,0
+20:00-22:00,Sunday,"Orion Mall, Malleshwaram",0,Windy,6200,523,67,1
+08:00-10:00,Saturday,Citywide Parking Overview,0,Windy,5300,265,445,0
+12:00-14:00,Monday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,403,163,0
+00:00-02:00,Tuesday,Jayanagar 4th Block,0,Cloudy,550,55,31,1
+10:00-12:00,Thursday,Commercial Street,0,Windy,325,33,105,0
+22:00-24:00,Thursday,KR Market Parking Complex,0,Rainy,370,21,96,1
+02:00-04:00,Sunday,Freedom Park,0,Cloudy,1400,360,64,0
+02:00-04:00,Saturday,"Total Mall, Old Airport Road",0,Sunny,300,17,23,0
+06:00-08:00,Wednesday,JC Road Multi-Level Parking,0,Windy,300,29,40,1
+10:00-12:00,Friday,Commercial Street,0,Rainy,325,45,155,0
+02:00-04:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,691,281,1
+20:00-22:00,Saturday,"Total Mall, Old Airport Road",0,Rainy,300,19,20,0
+12:00-14:00,Saturday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,742,85,0
+08:00-10:00,Sunday,Brigade Road,0,Windy,385,19,79,0
+18:00-20:00,Sunday,"Total Mall, Old Airport Road",1,Rainy,300,8,22,0
+02:00-04:00,Thursday,Citywide Parking Overview,0,Windy,5300,560,1200,0
+00:00-02:00,Saturday,JC Road Multi-Level Parking,0,Rainy,300,55,58,0
+22:00-24:00,Saturday,Freedom Park,0,Windy,1400,285,143,0
+02:00-04:00,Friday,"Orion Mall, Malleshwaram",0,Sunny,6200,3288,557,0
+02:00-04:00,Tuesday,Freedom Park,0,Windy,1400,309,104,0
+06:00-08:00,Sunday,Indiranagar 100 Feet Road,0,Windy,400,22,77,1
+10:00-12:00,Thursday,Commercial Street,0,Cloudy,325,42,104,0
+10:00-12:00,Saturday,Church Street,0,Windy,500,82,95,0
+20:00-22:00,Monday,Church Street,0,Windy,500,40,46,1
+18:00-20:00,Friday,"Mantri Square Mall, Malleswaram",0,Windy,2350,157,96,1
+16:00-18:00,Thursday,JC Road Multi-Level Parking,0,Windy,300,23,21,0
+18:00-20:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Windy,2350,532,109,0
+14:00-16:00,Monday,Brigade Road,0,Rainy,385,32,186,0
+04:00-06:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,164,63,0
+22:00-24:00,Monday,"Mantri Square Mall, Malleswaram",1,Sunny,2350,406,65,0
+10:00-12:00,Wednesday,Commercial Street,0,Rainy,325,38,104,0
+08:00-10:00,Friday,JC Road Multi-Level Parking,0,Sunny,300,93,50,0
+06:00-08:00,Saturday,"Orion Mall, Malleshwaram",0,Rainy,6200,1546,133,1
+04:00-06:00,Friday,"Orion Mall, Malleshwaram",0,Rainy,6200,2184,510,0
+18:00-20:00,Monday,"Orion Mall, Malleshwaram",0,Windy,6200,613,125,0
+14:00-16:00,Sunday,KR Market Parking Complex,0,Cloudy,370,32,83,0
+16:00-18:00,Sunday,Citywide Parking Overview,0,Cloudy,5300,206,393,1
+00:00-02:00,Monday,"Manyata Tech Park, Hebbal",0,Sunny,1700,357,218,0
+00:00-02:00,Thursday,Church Street,0,Rainy,500,137,66,0
+06:00-08:00,Thursday,"Phoenix Marketcity, Whitefield",1,Rainy,2200,670,175,0
+06:00-08:00,Wednesday,"Total Mall, Old Airport Road",0,Cloudy,300,44,67,0
+04:00-06:00,Sunday,Freedom Park,0,Cloudy,1400,173,115,0
+22:00-24:00,Sunday,Brigade Road,0,Sunny,385,24,28,0
+14:00-16:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,246,255,0
+14:00-16:00,Saturday,"Orion Mall, Malleshwaram",0,Windy,6200,887,222,0
+00:00-02:00,Thursday,Commercial Street,0,Rainy,325,48,144,0
+04:00-06:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,229,93,0
+00:00-02:00,Friday,"Total Mall, Old Airport Road",1,Rainy,300,26,67,0
+06:00-08:00,Tuesday,Church Street,0,Rainy,500,62,102,0
+16:00-18:00,Friday,"Manyata Tech Park, Hebbal",0,Windy,1700,166,115,0
+00:00-02:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,630,212,0
+22:00-24:00,Friday,JC Road Multi-Level Parking,0,Rainy,300,35,96,0
+00:00-02:00,Thursday,Brigade Road,0,Sunny,385,23,155,0
+18:00-20:00,Thursday,"Total Mall, Old Airport Road",0,Windy,300,32,64,0
+20:00-22:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,299,52,0
+08:00-10:00,Saturday,Church Street,0,Rainy,500,47,115,0
+10:00-12:00,Sunday,"Manyata Tech Park, Hebbal",1,Rainy,1700,195,146,0
+08:00-10:00,Thursday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,578,261,0
+06:00-08:00,Sunday,Church Street,0,Rainy,500,66,110,0
+20:00-22:00,Friday,Citywide Parking Overview,0,Cloudy,5300,188,637,0
+16:00-18:00,Monday,"Manyata Tech Park, Hebbal",1,Windy,1700,197,52,0
+12:00-14:00,Saturday,KR Market Parking Complex,0,Cloudy,370,13,84,0
+04:00-06:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,530,171,0
+22:00-24:00,Thursday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,1020,267,0
+02:00-04:00,Sunday,Freedom Park,0,Cloudy,1400,257,175,0
+00:00-02:00,Friday,Brigade Road,0,Cloudy,385,49,164,0
+00:00-02:00,Wednesday,Commercial Street,0,Sunny,325,29,108,0
+16:00-18:00,Wednesday,"Orion Mall, Malleshwaram",0,Rainy,6200,826,116,0
+18:00-20:00,Friday,KR Market Parking Complex,0,Windy,370,16,31,0
+16:00-18:00,Wednesday,Freedom Park,0,Rainy,1400,124,113,0
+02:00-04:00,Friday,JC Road Multi-Level Parking,0,Sunny,300,29,91,0
+02:00-04:00,Wednesday,Church Street,0,Sunny,500,23,32,1
+12:00-14:00,Saturday,Jayanagar 4th Block,0,Cloudy,550,71,62,0
+08:00-10:00,Tuesday,"Total Mall, Old Airport Road",0,Windy,300,39,148,0
+10:00-12:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,496,303,0
+02:00-04:00,Thursday,Commercial Street,0,Sunny,325,23,156,0
+12:00-14:00,Sunday,"Phoenix Marketcity, Whitefield",1,Windy,2200,553,106,0
+10:00-12:00,Saturday,Indiranagar 100 Feet Road,0,Sunny,400,23,44,0
+22:00-24:00,Wednesday,Freedom Park,0,Rainy,1400,581,198,0
+06:00-08:00,Tuesday,Indiranagar 100 Feet Road,0,Windy,400,80,95,0
+06:00-08:00,Sunday,"Manyata Tech Park, Hebbal",1,Windy,1700,444,202,0
+04:00-06:00,Friday,JC Road Multi-Level Parking,0,Cloudy,300,29,69,0
+18:00-20:00,Sunday,KR Market Parking Complex,0,Cloudy,370,8,22,1
+14:00-16:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Windy,2350,699,333,0
+20:00-22:00,Wednesday,Church Street,0,Sunny,500,34,67,0
+16:00-18:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,298,131,1
+14:00-16:00,Friday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,516,335,0
+16:00-18:00,Sunday,"Orion Mall, Malleshwaram",1,Rainy,6200,1121,109,0
+08:00-10:00,Friday,"Manyata Tech Park, Hebbal",0,Sunny,1700,424,346,0
+20:00-22:00,Tuesday,"International Tech Park (ITPL), Whitefield",1,Rainy,1400,81,76,0
+16:00-18:00,Thursday,Indiranagar 100 Feet Road,0,Sunny,400,21,38,0
+18:00-20:00,Monday,Citywide Parking Overview,0,Sunny,5300,424,625,0
+14:00-16:00,Monday,"Manyata Tech Park, Hebbal",0,Sunny,1700,513,143,0
+00:00-02:00,Saturday,Indiranagar 100 Feet Road,0,Rainy,400,31,58,0
+08:00-10:00,Sunday,JC Road Multi-Level Parking,0,Sunny,300,21,33,0
+06:00-08:00,Thursday,JC Road Multi-Level Parking,0,Cloudy,300,77,47,0
+16:00-18:00,Sunday,"Manyata Tech Park, Hebbal",0,Rainy,1700,88,59,0
+10:00-12:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,742,203,0
+08:00-10:00,Tuesday,Brigade Road,1,Windy,385,21,43,0
+16:00-18:00,Wednesday,Freedom Park,0,Windy,1400,200,101,1
+04:00-06:00,Saturday,KR Market Parking Complex,0,Cloudy,370,22,80,0
+00:00-02:00,Monday,"Total Mall, Old Airport Road",0,Windy,300,19,29,1
+12:00-14:00,Saturday,Freedom Park,0,Rainy,1400,193,64,0
+02:00-04:00,Saturday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,206,107,0
+16:00-18:00,Friday,"Manyata Tech Park, Hebbal",0,Sunny,1700,176,71,1
+20:00-22:00,Monday,Church Street,0,Rainy,500,46,84,0
+16:00-18:00,Saturday,Brigade Road,0,Rainy,385,13,17,0
+18:00-20:00,Sunday,"Orion Mall, Malleshwaram",0,Windy,6200,855,121,0
+14:00-16:00,Monday,Jayanagar 4th Block,0,Cloudy,550,71,81,0
+00:00-02:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Windy,2200,487,137,1
+08:00-10:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,1049,184,0
+20:00-22:00,Tuesday,Jayanagar 4th Block,0,Rainy,550,56,78,0
+16:00-18:00,Friday,Indiranagar 100 Feet Road,0,Rainy,400,20,63,0
+06:00-08:00,Sunday,Indiranagar 100 Feet Road,0,Windy,400,54,97,0
+02:00-04:00,Tuesday,Brigade Road,0,Sunny,385,60,160,0
+18:00-20:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,233,41,0
+08:00-10:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,329,230,0
+20:00-22:00,Monday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,120,84,1
+20:00-22:00,Saturday,Brigade Road,0,Windy,385,10,27,0
+04:00-06:00,Friday,Indiranagar 100 Feet Road,0,Sunny,400,107,77,0
+20:00-22:00,Sunday,"Manyata Tech Park, Hebbal",0,Sunny,1700,169,39,1
+12:00-14:00,Tuesday,Citywide Parking Overview,0,Cloudy,5300,400,1014,0
+08:00-10:00,Monday,Church Street,0,Cloudy,500,88,113,0
+06:00-08:00,Sunday,KR Market Parking Complex,0,Sunny,370,13,57,0
+14:00-16:00,Saturday,Freedom Park,0,Sunny,1400,372,111,0
+08:00-10:00,Saturday,Jayanagar 4th Block,0,Windy,550,79,60,0
+00:00-02:00,Sunday,"Orion Mall, Malleshwaram",0,Sunny,6200,2220,187,1
+14:00-16:00,Thursday,Brigade Road,0,Rainy,385,38,209,0
+00:00-02:00,Sunday,"Manyata Tech Park, Hebbal",1,Rainy,1700,154,164,1
+22:00-24:00,Sunday,Citywide Parking Overview,0,Cloudy,5300,285,625,0
+10:00-12:00,Friday,Jayanagar 4th Block,0,Cloudy,550,113,107,0
+14:00-16:00,Monday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1719,733,0
+22:00-24:00,Friday,"Manyata Tech Park, Hebbal",1,Sunny,1700,296,114,0
+20:00-22:00,Monday,"International Tech Park (ITPL), Whitefield",1,Windy,1400,100,50,1
+14:00-16:00,Monday,Commercial Street,0,Cloudy,325,26,74,1
+12:00-14:00,Monday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,280,104,0
+14:00-16:00,Sunday,"Manyata Tech Park, Hebbal",0,Rainy,1700,265,101,0
+02:00-04:00,Monday,Commercial Street,0,Windy,325,37,118,0
+04:00-06:00,Wednesday,Freedom Park,0,Cloudy,1400,604,227,0
+18:00-20:00,Thursday,JC Road Multi-Level Parking,0,Sunny,300,13,26,1
+06:00-08:00,Thursday,Brigade Road,0,Rainy,385,13,106,1
+06:00-08:00,Thursday,"Total Mall, Old Airport Road",1,Windy,300,22,44,0
+22:00-24:00,Friday,"Phoenix Marketcity, Whitefield",1,Sunny,2200,511,126,0
+10:00-12:00,Saturday,"Manyata Tech Park, Hebbal",0,Sunny,1700,418,70,0
+04:00-06:00,Friday,JC Road Multi-Level Parking,0,Rainy,300,38,93,0
+16:00-18:00,Saturday,Freedom Park,0,Rainy,1400,148,71,0
+22:00-24:00,Saturday,JC Road Multi-Level Parking,0,Windy,300,52,56,0
+12:00-14:00,Thursday,Freedom Park,0,Cloudy,1400,671,95,0
+16:00-18:00,Saturday,"Phoenix Marketcity, Whitefield",0,Windy,2200,359,58,0
+16:00-18:00,Tuesday,Brigade Road,0,Sunny,385,27,46,0
+10:00-12:00,Tuesday,Church Street,0,Sunny,500,123,179,0
+22:00-24:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,791,168,0
+08:00-10:00,Tuesday,JC Road Multi-Level Parking,0,Rainy,300,49,39,1
+06:00-08:00,Sunday,"Mantri Square Mall, Malleswaram",1,Rainy,2350,673,131,0
+08:00-10:00,Saturday,Freedom Park,0,Windy,1400,330,103,0
+06:00-08:00,Saturday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,517,172,0
+20:00-22:00,Thursday,Brigade Road,0,Rainy,385,28,61,0
+06:00-08:00,Tuesday,Indiranagar 100 Feet Road,1,Windy,400,74,56,0
+08:00-10:00,Sunday,Brigade Road,0,Cloudy,385,34,130,0
+06:00-08:00,Wednesday,Indiranagar 100 Feet Road,0,Rainy,400,76,134,0
+18:00-20:00,Tuesday,"Total Mall, Old Airport Road",0,Windy,300,9,42,0
+02:00-04:00,Saturday,Brigade Road,0,Rainy,385,21,136,0
+20:00-22:00,Friday,Commercial Street,0,Sunny,325,13,50,0
+04:00-06:00,Monday,"Orion Mall, Malleshwaram",1,Rainy,6200,1153,133,0
+00:00-02:00,Saturday,KR Market Parking Complex,0,Sunny,370,15,35,1
+10:00-12:00,Wednesday,Freedom Park,0,Windy,1400,704,216,0
+08:00-10:00,Tuesday,Jayanagar 4th Block,0,Windy,550,96,85,0
+08:00-10:00,Thursday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,310,169,0
+12:00-14:00,Sunday,Indiranagar 100 Feet Road,0,Sunny,400,45,47,0
+04:00-06:00,Sunday,"Total Mall, Old Airport Road",0,Rainy,300,12,53,0
+08:00-10:00,Tuesday,"Total Mall, Old Airport Road",1,Sunny,300,22,68,0
+22:00-24:00,Sunday,Citywide Parking Overview,0,Rainy,5300,418,836,0
+14:00-16:00,Thursday,Freedom Park,0,Windy,1400,239,79,1
+16:00-18:00,Tuesday,Indiranagar 100 Feet Road,0,Rainy,400,48,87,0
+08:00-10:00,Sunday,JC Road Multi-Level Parking,0,Sunny,300,23,25,0
+06:00-08:00,Tuesday,Citywide Parking Overview,0,Windy,5300,250,870,1
+22:00-24:00,Monday,Commercial Street,1,Sunny,325,21,71,0
+06:00-08:00,Monday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,401,242,0
+16:00-18:00,Sunday,"Orion Mall, Malleshwaram",0,Sunny,6200,1177,135,0
+18:00-20:00,Monday,Freedom Park,0,Rainy,1400,149,68,0
+00:00-02:00,Friday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,179,232,1
+20:00-22:00,Friday,Citywide Parking Overview,0,Rainy,5300,404,1426,0
+00:00-02:00,Sunday,"Total Mall, Old Airport Road",1,Windy,300,30,56,0
+22:00-24:00,Monday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,1315,251,0
+02:00-04:00,Sunday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,215,140,0
+06:00-08:00,Thursday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,800,242,0
+10:00-12:00,Saturday,KR Market Parking Complex,0,Cloudy,370,20,80,0
+08:00-10:00,Saturday,Commercial Street,0,Sunny,325,19,42,0
+02:00-04:00,Monday,"Phoenix Marketcity, Whitefield",1,Cloudy,2200,297,177,0
+10:00-12:00,Monday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,868,239,0
+02:00-04:00,Tuesday,Church Street,0,Rainy,500,95,171,0
+18:00-20:00,Wednesday,Brigade Road,0,Windy,385,26,84,0
+20:00-22:00,Wednesday,Jayanagar 4th Block,0,Windy,550,45,41,0
+14:00-16:00,Monday,Brigade Road,0,Windy,385,39,228,0
+20:00-22:00,Sunday,"Total Mall, Old Airport Road",0,Cloudy,300,13,23,0
+18:00-20:00,Monday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,597,145,0
+02:00-04:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,477,177,0
+04:00-06:00,Wednesday,Indiranagar 100 Feet Road,0,Rainy,400,83,105,0
+20:00-22:00,Monday,Commercial Street,0,Sunny,325,5,25,1
+08:00-10:00,Tuesday,"Total Mall, Old Airport Road",0,Rainy,300,28,66,0
+02:00-04:00,Sunday,Church Street,0,Sunny,500,65,104,1
+14:00-16:00,Tuesday,Freedom Park,0,Windy,1400,359,170,0
+16:00-18:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,243,99,0
+12:00-14:00,Saturday,Jayanagar 4th Block,0,Sunny,550,96,54,0
+10:00-12:00,Saturday,Jayanagar 4th Block,0,Windy,550,28,111,0
+10:00-12:00,Wednesday,"Total Mall, Old Airport Road",0,Rainy,300,37,58,0
+06:00-08:00,Wednesday,"Total Mall, Old Airport Road",0,Cloudy,300,32,51,0
+10:00-12:00,Friday,"Manyata Tech Park, Hebbal",1,Windy,1700,440,80,0
+12:00-14:00,Monday,Citywide Parking Overview,1,Cloudy,5300,565,517,1
+08:00-10:00,Saturday,Indiranagar 100 Feet Road,0,Rainy,400,43,105,0
+18:00-20:00,Wednesday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1517,132,0
+14:00-16:00,Saturday,Jayanagar 4th Block,1,Sunny,550,91,74,1
+02:00-04:00,Friday,KR Market Parking Complex,0,Cloudy,370,9,82,1
+22:00-24:00,Monday,KR Market Parking Complex,1,Cloudy,370,29,51,0
+02:00-04:00,Friday,Freedom Park,0,Sunny,1400,237,90,1
+00:00-02:00,Friday,Freedom Park,0,Rainy,1400,477,145,0
+02:00-04:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,434,144,1
+06:00-08:00,Wednesday,"Manyata Tech Park, Hebbal",0,Windy,1700,527,203,0
+10:00-12:00,Thursday,"Orion Mall, Malleshwaram",0,Sunny,6200,1783,191,0
+12:00-14:00,Monday,KR Market Parking Complex,0,Rainy,370,17,177,0
+22:00-24:00,Wednesday,Jayanagar 4th Block,0,Cloudy,550,175,135,0
+08:00-10:00,Thursday,"Manyata Tech Park, Hebbal",0,Windy,1700,366,180,0
+06:00-08:00,Wednesday,Church Street,1,Sunny,500,50,128,0
+02:00-04:00,Tuesday,Church Street,1,Sunny,500,74,77,1
+20:00-22:00,Friday,Brigade Road,0,Windy,385,20,40,0
+20:00-22:00,Monday,KR Market Parking Complex,0,Rainy,370,18,50,0
+20:00-22:00,Saturday,"Orion Mall, Malleshwaram",0,Sunny,6200,590,91,0
+18:00-20:00,Wednesday,KR Market Parking Complex,0,Cloudy,370,7,37,1
+00:00-02:00,Tuesday,"International Tech Park (ITPL), Whitefield",1,Sunny,1400,401,184,0
+08:00-10:00,Monday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,154,51,1
+02:00-04:00,Sunday,"Manyata Tech Park, Hebbal",1,Sunny,1700,274,140,0
+10:00-12:00,Wednesday,Church Street,0,Windy,500,44,129,0
+14:00-16:00,Friday,"Total Mall, Old Airport Road",0,Windy,300,19,36,1
+18:00-20:00,Thursday,Citywide Parking Overview,0,Sunny,5300,319,909,0
+16:00-18:00,Monday,Freedom Park,1,Sunny,1400,135,31,0
+06:00-08:00,Monday,Jayanagar 4th Block,0,Windy,550,56,182,0
+22:00-24:00,Tuesday,JC Road Multi-Level Parking,0,Cloudy,300,16,56,1
+18:00-20:00,Saturday,Citywide Parking Overview,1,Windy,5300,106,546,1
+06:00-08:00,Wednesday,Freedom Park,0,Windy,1400,209,95,1
+04:00-06:00,Tuesday,JC Road Multi-Level Parking,0,Rainy,300,43,61,0
+06:00-08:00,Friday,Commercial Street,0,Rainy,325,46,80,0
+22:00-24:00,Friday,JC Road Multi-Level Parking,0,Rainy,300,55,75,0
+08:00-10:00,Saturday,"Orion Mall, Malleshwaram",0,Windy,6200,719,494,0
+02:00-04:00,Friday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,556,223,0
+14:00-16:00,Saturday,"Orion Mall, Malleshwaram",0,Rainy,6200,2155,178,1
+14:00-16:00,Sunday,"Total Mall, Old Airport Road",0,Sunny,300,44,39,1
+06:00-08:00,Sunday,Commercial Street,0,Rainy,325,20,69,0
+14:00-16:00,Wednesday,"Mantri Square Mall, Malleswaram",1,Cloudy,2350,397,182,0
+10:00-12:00,Wednesday,"Orion Mall, Malleshwaram",1,Windy,6200,1324,336,0
+02:00-04:00,Tuesday,Commercial Street,0,Windy,325,21,91,1
+02:00-04:00,Monday,Citywide Parking Overview,0,Sunny,5300,708,2443,0
+16:00-18:00,Saturday,"Phoenix Marketcity, Whitefield",0,Windy,2200,162,36,0
+02:00-04:00,Monday,"Manyata Tech Park, Hebbal",0,Rainy,1700,264,252,0
+00:00-02:00,Saturday,KR Market Parking Complex,0,Rainy,370,28,144,0
+16:00-18:00,Tuesday,Freedom Park,0,Rainy,1400,299,111,0
+22:00-24:00,Thursday,JC Road Multi-Level Parking,0,Windy,300,26,22,1
+08:00-10:00,Sunday,Citywide Parking Overview,0,Windy,5300,196,897,0
+12:00-14:00,Sunday,KR Market Parking Complex,0,Rainy,370,12,91,0
+08:00-10:00,Monday,KR Market Parking Complex,0,Cloudy,370,33,96,0
+22:00-24:00,Thursday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,710,225,0
+14:00-16:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,513,253,1
+14:00-16:00,Saturday,"Orion Mall, Malleshwaram",0,Rainy,6200,1543,347,0
+00:00-02:00,Monday,KR Market Parking Complex,0,Windy,370,38,193,0
+12:00-14:00,Sunday,Church Street,0,Rainy,500,39,158,1
+00:00-02:00,Monday,JC Road Multi-Level Parking,0,Sunny,300,70,71,0
+16:00-18:00,Tuesday,KR Market Parking Complex,0,Sunny,370,12,79,0
+18:00-20:00,Friday,Freedom Park,0,Cloudy,1400,105,58,1
+00:00-02:00,Tuesday,Commercial Street,1,Sunny,325,13,58,1
+18:00-20:00,Sunday,KR Market Parking Complex,0,Rainy,370,7,42,0
+06:00-08:00,Thursday,Indiranagar 100 Feet Road,0,Windy,400,51,181,0
+20:00-22:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,197,63,1
+04:00-06:00,Friday,JC Road Multi-Level Parking,1,Rainy,300,15,54,1
+18:00-20:00,Saturday,Commercial Street,0,Cloudy,325,7,27,1
+22:00-24:00,Friday,Indiranagar 100 Feet Road,0,Windy,400,61,91,1
+20:00-22:00,Saturday,Commercial Street,0,Cloudy,325,6,44,0
+14:00-16:00,Saturday,Commercial Street,0,Rainy,325,36,45,0
+00:00-02:00,Wednesday,Brigade Road,0,Sunny,385,41,125,0
+06:00-08:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,184,92,0
+12:00-14:00,Sunday,Church Street,0,Sunny,500,93,132,0
+04:00-06:00,Wednesday,"Mantri Square Mall, Malleswaram",1,Sunny,2350,629,184,0
+14:00-16:00,Saturday,"Phoenix Marketcity, Whitefield",0,Windy,2200,350,97,0
+16:00-18:00,Monday,Jayanagar 4th Block,0,Windy,550,33,31,1
+02:00-04:00,Friday,JC Road Multi-Level Parking,0,Sunny,300,73,83,0
+12:00-14:00,Tuesday,KR Market Parking Complex,0,Rainy,370,34,190,0
+12:00-14:00,Saturday,"Total Mall, Old Airport Road",0,Rainy,300,38,33,0
+12:00-14:00,Friday,Freedom Park,0,Windy,1400,145,58,1
+00:00-02:00,Thursday,JC Road Multi-Level Parking,0,Windy,300,72,84,0
+12:00-14:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,363,147,0
+06:00-08:00,Thursday,"Total Mall, Old Airport Road",0,Cloudy,300,61,121,0
+04:00-06:00,Tuesday,Church Street,0,Sunny,500,34,133,1
+00:00-02:00,Tuesday,Citywide Parking Overview,0,Rainy,5300,549,1976,0
+08:00-10:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,469,214,0
+16:00-18:00,Sunday,Freedom Park,0,Rainy,1400,141,54,0
+08:00-10:00,Friday,Freedom Park,1,Rainy,1400,215,147,0
+08:00-10:00,Wednesday,Commercial Street,0,Rainy,325,49,182,0
+10:00-12:00,Saturday,"Orion Mall, Malleshwaram",0,Sunny,6200,1739,138,1
+08:00-10:00,Thursday,Commercial Street,0,Cloudy,325,27,68,0
+06:00-08:00,Friday,Church Street,0,Sunny,500,90,95,1
+00:00-02:00,Sunday,KR Market Parking Complex,0,Windy,370,14,86,0
+16:00-18:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,138,63,1
+14:00-16:00,Saturday,Freedom Park,0,Rainy,1400,415,64,0
+16:00-18:00,Saturday,KR Market Parking Complex,0,Cloudy,370,11,27,0
+10:00-12:00,Wednesday,Commercial Street,0,Windy,325,46,183,0
+02:00-04:00,Monday,JC Road Multi-Level Parking,0,Windy,300,68,55,0
+00:00-02:00,Wednesday,Church Street,1,Sunny,500,54,89,1
+08:00-10:00,Saturday,"Manyata Tech Park, Hebbal",0,Sunny,1700,291,142,1
+04:00-06:00,Thursday,Commercial Street,0,Cloudy,325,44,113,0
+12:00-14:00,Monday,Church Street,0,Windy,500,121,91,0
+00:00-02:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,481,194,1
+12:00-14:00,Tuesday,Church Street,0,Cloudy,500,116,218,0
+00:00-02:00,Monday,KR Market Parking Complex,0,Windy,370,25,80,0
+10:00-12:00,Saturday,Brigade Road,0,Rainy,385,22,51,0
+16:00-18:00,Friday,Indiranagar 100 Feet Road,0,Sunny,400,32,85,0
+16:00-18:00,Friday,"Manyata Tech Park, Hebbal",1,Sunny,1700,129,100,0
+00:00-02:00,Tuesday,"Orion Mall, Malleshwaram",1,Cloudy,6200,1162,350,0
+16:00-18:00,Friday,KR Market Parking Complex,0,Sunny,370,12,79,0
+00:00-02:00,Thursday,Citywide Parking Overview,0,Cloudy,5300,771,1259,0
+00:00-02:00,Sunday,"Mantri Square Mall, Malleswaram",1,Windy,2350,363,228,0
+16:00-18:00,Tuesday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,382,135,0
+14:00-16:00,Thursday,Brigade Road,0,Rainy,385,27,85,0
+02:00-04:00,Monday,JC Road Multi-Level Parking,0,Windy,300,50,57,0
+06:00-08:00,Wednesday,Church Street,0,Cloudy,500,68,58,0
+02:00-04:00,Friday,"Manyata Tech Park, Hebbal",0,Windy,1700,612,198,0
+16:00-18:00,Saturday,Jayanagar 4th Block,1,Cloudy,550,29,40,0
+02:00-04:00,Wednesday,Brigade Road,1,Cloudy,385,14,43,0
+14:00-16:00,Wednesday,JC Road Multi-Level Parking,0,Sunny,300,96,94,0
+10:00-12:00,Friday,Jayanagar 4th Block,0,Sunny,550,50,205,0
+02:00-04:00,Sunday,Church Street,0,Sunny,500,51,65,0
+14:00-16:00,Tuesday,Citywide Parking Overview,1,Cloudy,5300,350,1014,0
+00:00-02:00,Thursday,KR Market Parking Complex,0,Cloudy,370,48,182,0
+22:00-24:00,Sunday,Indiranagar 100 Feet Road,0,Windy,400,40,37,0
+02:00-04:00,Sunday,Brigade Road,0,Rainy,385,32,145,0
+20:00-22:00,Tuesday,"Total Mall, Old Airport Road",0,Sunny,300,15,44,0
+18:00-20:00,Sunday,"Orion Mall, Malleshwaram",0,Sunny,6200,462,130,0
+00:00-02:00,Saturday,Freedom Park,0,Rainy,1400,170,113,0
+20:00-22:00,Thursday,Commercial Street,0,Rainy,325,18,59,0
+12:00-14:00,Monday,"Manyata Tech Park, Hebbal",0,Sunny,1700,557,142,0
+02:00-04:00,Thursday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,529,59,1
+12:00-14:00,Friday,Indiranagar 100 Feet Road,0,Cloudy,400,36,61,0
+04:00-06:00,Monday,Citywide Parking Overview,0,Windy,5300,671,915,0
+20:00-22:00,Tuesday,Freedom Park,0,Windy,1400,270,70,0
+12:00-14:00,Tuesday,Indiranagar 100 Feet Road,0,Windy,400,48,47,1
+10:00-12:00,Saturday,Church Street,0,Windy,500,46,65,0
+06:00-08:00,Saturday,Citywide Parking Overview,0,Rainy,5300,325,983,1
+12:00-14:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,655,295,0
+18:00-20:00,Saturday,Jayanagar 4th Block,0,Sunny,550,26,36,0
+14:00-16:00,Thursday,Indiranagar 100 Feet Road,0,Cloudy,400,59,57,0
+12:00-14:00,Thursday,"Manyata Tech Park, Hebbal",0,Windy,1700,715,237,0
+12:00-14:00,Wednesday,Freedom Park,0,Rainy,1400,275,191,0
+10:00-12:00,Tuesday,"Total Mall, Old Airport Road",0,Cloudy,300,23,148,0
+08:00-10:00,Thursday,KR Market Parking Complex,0,Rainy,370,18,80,1
+00:00-02:00,Tuesday,Citywide Parking Overview,0,Rainy,5300,447,2695,0
+10:00-12:00,Monday,"Orion Mall, Malleshwaram",0,Sunny,6200,984,239,1
+20:00-22:00,Thursday,"Total Mall, Old Airport Road",0,Windy,300,18,62,0
+02:00-04:00,Friday,Brigade Road,0,Sunny,385,12,55,1
+22:00-24:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,618,142,0
+02:00-04:00,Monday,Brigade Road,0,Windy,385,26,107,1
+18:00-20:00,Tuesday,Citywide Parking Overview,0,Rainy,5300,294,1260,0
+14:00-16:00,Sunday,Brigade Road,1,Windy,385,15,84,0
+14:00-16:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,997,172,0
+12:00-14:00,Sunday,Jayanagar 4th Block,0,Windy,550,62,61,0
+04:00-06:00,Sunday,Freedom Park,0,Sunny,1400,301,56,0
+20:00-22:00,Wednesday,KR Market Parking Complex,0,Windy,370,10,75,0
+00:00-02:00,Monday,Brigade Road,0,Windy,385,34,176,0
+18:00-20:00,Wednesday,JC Road Multi-Level Parking,0,Rainy,300,43,24,0
+04:00-06:00,Thursday,Citywide Parking Overview,0,Windy,5300,508,2737,0
+22:00-24:00,Sunday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,426,95,0
+16:00-18:00,Sunday,"Orion Mall, Malleshwaram",0,Sunny,6200,410,97,0
+18:00-20:00,Wednesday,Commercial Street,0,Cloudy,325,15,76,0
+02:00-04:00,Tuesday,KR Market Parking Complex,1,Cloudy,370,12,42,0
+10:00-12:00,Friday,"Phoenix Marketcity, Whitefield",1,Sunny,2200,737,172,0
+10:00-12:00,Tuesday,Jayanagar 4th Block,1,Cloudy,550,100,41,0
+10:00-12:00,Sunday,"Total Mall, Old Airport Road",0,Rainy,300,27,29,1
+06:00-08:00,Saturday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,425,73,1
+06:00-08:00,Wednesday,JC Road Multi-Level Parking,0,Windy,300,82,83,0
+10:00-12:00,Friday,Jayanagar 4th Block,0,Cloudy,550,77,177,0
+18:00-20:00,Tuesday,KR Market Parking Complex,0,Sunny,370,20,55,0
+06:00-08:00,Sunday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,230,160,0
+08:00-10:00,Wednesday,JC Road Multi-Level Parking,0,Cloudy,300,82,93,0
+16:00-18:00,Sunday,Citywide Parking Overview,0,Windy,5300,110,650,1
+22:00-24:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,884,355,0
+16:00-18:00,Tuesday,Jayanagar 4th Block,0,Rainy,550,29,33,0
+22:00-24:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,355,107,1
+10:00-12:00,Monday,Commercial Street,0,Rainy,325,44,108,0
+08:00-10:00,Saturday,Citywide Parking Overview,0,Cloudy,5300,375,1255,0
+08:00-10:00,Saturday,"Manyata Tech Park, Hebbal",0,Windy,1700,210,141,0
+20:00-22:00,Tuesday,Citywide Parking Overview,0,Windy,5300,165,963,0
+16:00-18:00,Friday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,198,142,0
+10:00-12:00,Thursday,Church Street,1,Cloudy,500,62,99,0
+12:00-14:00,Sunday,"Manyata Tech Park, Hebbal",0,Sunny,1700,608,131,0
+22:00-24:00,Saturday,"Phoenix Marketcity, Whitefield",1,Sunny,2200,560,91,0
+10:00-12:00,Sunday,"Manyata Tech Park, Hebbal",1,Windy,1700,174,138,0
+20:00-22:00,Friday,KR Market Parking Complex,0,Sunny,370,10,86,0
+08:00-10:00,Friday,JC Road Multi-Level Parking,1,Windy,300,64,54,1
+16:00-18:00,Friday,Freedom Park,0,Rainy,1400,86,91,1
+20:00-22:00,Sunday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,143,70,0
+12:00-14:00,Tuesday,"Phoenix Marketcity, Whitefield",1,Windy,2200,551,95,0
+12:00-14:00,Sunday,"Total Mall, Old Airport Road",0,Sunny,300,34,66,0
+20:00-22:00,Sunday,Commercial Street,0,Cloudy,325,14,37,0
+00:00-02:00,Sunday,Commercial Street,0,Sunny,325,17,61,1
+00:00-02:00,Wednesday,KR Market Parking Complex,1,Rainy,370,21,99,0
+04:00-06:00,Thursday,JC Road Multi-Level Parking,0,Windy,300,73,97,0
+10:00-12:00,Friday,Commercial Street,1,Windy,325,19,53,0
+02:00-04:00,Saturday,Freedom Park,0,Rainy,1400,214,112,0
+02:00-04:00,Wednesday,Jayanagar 4th Block,1,Sunny,550,70,93,1
+08:00-10:00,Tuesday,KR Market Parking Complex,0,Cloudy,370,26,155,0
+18:00-20:00,Saturday,JC Road Multi-Level Parking,0,Sunny,300,17,15,1
+12:00-14:00,Thursday,Freedom Park,0,Cloudy,1400,301,129,0
+18:00-20:00,Thursday,Citywide Parking Overview,0,Cloudy,5300,206,584,0
+02:00-04:00,Thursday,Commercial Street,0,Windy,325,21,96,0
+04:00-06:00,Wednesday,"Manyata Tech Park, Hebbal",0,Windy,1700,186,101,1
+14:00-16:00,Friday,JC Road Multi-Level Parking,0,Cloudy,300,85,29,0
+08:00-10:00,Thursday,"Orion Mall, Malleshwaram",0,Windy,6200,2522,286,0
+14:00-16:00,Friday,"Total Mall, Old Airport Road",0,Cloudy,300,19,101,1
+22:00-24:00,Wednesday,"Manyata Tech Park, Hebbal",0,Rainy,1700,555,270,0
+22:00-24:00,Monday,Freedom Park,0,Sunny,1400,274,100,0
+08:00-10:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,992,228,0
+22:00-24:00,Monday,JC Road Multi-Level Parking,0,Sunny,300,64,41,0
+10:00-12:00,Friday,KR Market Parking Complex,0,Rainy,370,38,138,0
+08:00-10:00,Sunday,"Phoenix Marketcity, Whitefield",0,Windy,2200,165,207,0
+14:00-16:00,Wednesday,"Orion Mall, Malleshwaram",0,Windy,6200,2718,551,0
+02:00-04:00,Saturday,Indiranagar 100 Feet Road,0,Sunny,400,19,71,0
+08:00-10:00,Sunday,"Manyata Tech Park, Hebbal",0,Windy,1700,216,102,0
+02:00-04:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,803,168,0
+00:00-02:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,608,238,0
+22:00-24:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,731,163,0
+10:00-12:00,Thursday,"Mantri Square Mall, Malleswaram",0,Windy,2350,797,385,0
+06:00-08:00,Wednesday,Commercial Street,0,Sunny,325,26,75,0
+16:00-18:00,Wednesday,"Mantri Square Mall, Malleswaram",1,Cloudy,2350,287,88,0
+18:00-20:00,Thursday,JC Road Multi-Level Parking,0,Sunny,300,14,53,0
+00:00-02:00,Tuesday,"Mantri Square Mall, Malleswaram",1,Sunny,2350,309,193,0
+12:00-14:00,Sunday,Commercial Street,1,Sunny,325,18,75,0
+00:00-02:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,409,97,0
+10:00-12:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,380,250,0
+12:00-14:00,Wednesday,"Manyata Tech Park, Hebbal",0,Sunny,1700,480,157,0
+18:00-20:00,Saturday,Church Street,0,Windy,500,18,28,0
+14:00-16:00,Thursday,Commercial Street,0,Rainy,325,11,51,1
+20:00-22:00,Saturday,Commercial Street,0,Sunny,325,10,23,0
+02:00-04:00,Tuesday,"Phoenix Marketcity, Whitefield",1,Rainy,2200,594,137,1
+04:00-06:00,Friday,"Mantri Square Mall, Malleswaram",0,Windy,2350,546,257,0
+16:00-18:00,Monday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,425,150,0
+06:00-08:00,Saturday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,411,161,0
+10:00-12:00,Thursday,Commercial Street,0,Windy,325,28,119,0
+16:00-18:00,Friday,Jayanagar 4th Block,0,Windy,550,47,70,0
+10:00-12:00,Friday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,614,132,0
+02:00-04:00,Friday,Brigade Road,0,Rainy,385,39,172,0
+04:00-06:00,Sunday,Indiranagar 100 Feet Road,0,Cloudy,400,46,44,1
+06:00-08:00,Sunday,Citywide Parking Overview,0,Cloudy,5300,327,1186,0
+14:00-16:00,Tuesday,Commercial Street,1,Rainy,325,16,80,0
+14:00-16:00,Monday,Citywide Parking Overview,0,Sunny,5300,854,1862,0
+00:00-02:00,Friday,"Total Mall, Old Airport Road",0,Sunny,300,59,54,0
+22:00-24:00,Wednesday,"International Tech Park (ITPL), Whitefield",1,Rainy,1400,126,47,0
+04:00-06:00,Monday,Brigade Road,0,Cloudy,385,23,71,1
+16:00-18:00,Thursday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,458,97,0
+18:00-20:00,Sunday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,125,92,0
+16:00-18:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,411,110,0
+02:00-04:00,Sunday,"Orion Mall, Malleshwaram",0,Sunny,6200,1209,167,1
+14:00-16:00,Monday,"Phoenix Marketcity, Whitefield",0,Windy,2200,234,80,1
+06:00-08:00,Friday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,598,215,0
+10:00-12:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,1166,210,0
+16:00-18:00,Monday,"Manyata Tech Park, Hebbal",0,Rainy,1700,156,157,0
+02:00-04:00,Tuesday,KR Market Parking Complex,0,Rainy,370,37,140,0
+04:00-06:00,Wednesday,KR Market Parking Complex,0,Cloudy,370,47,92,0
+22:00-24:00,Saturday,Commercial Street,1,Windy,325,22,78,0
+22:00-24:00,Monday,"Total Mall, Old Airport Road",0,Sunny,300,27,67,0
+04:00-06:00,Monday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,344,180,0
+20:00-22:00,Monday,KR Market Parking Complex,0,Cloudy,370,21,79,0
+16:00-18:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,547,109,0
+08:00-10:00,Friday,KR Market Parking Complex,0,Windy,370,40,196,0
+20:00-22:00,Monday,Brigade Road,0,Rainy,385,18,33,0
+10:00-12:00,Tuesday,Brigade Road,0,Sunny,385,45,72,0
+06:00-08:00,Monday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,1040,322,0
+02:00-04:00,Friday,Indiranagar 100 Feet Road,0,Cloudy,400,77,72,0
+18:00-20:00,Sunday,"Total Mall, Old Airport Road",1,Cloudy,300,6,32,0
+18:00-20:00,Monday,Brigade Road,0,Rainy,385,11,50,1
+20:00-22:00,Friday,"Total Mall, Old Airport Road",0,Rainy,300,16,33,1
+12:00-14:00,Saturday,"Total Mall, Old Airport Road",0,Windy,300,27,33,0
+14:00-16:00,Sunday,"Orion Mall, Malleshwaram",0,Rainy,6200,1045,197,0
+10:00-12:00,Wednesday,Freedom Park,0,Sunny,1400,649,156,0
+04:00-06:00,Monday,Jayanagar 4th Block,0,Windy,550,73,194,0
+16:00-18:00,Tuesday,Brigade Road,1,Windy,385,12,66,0
+04:00-06:00,Sunday,Brigade Road,0,Windy,385,30,137,0
+02:00-04:00,Sunday,Church Street,0,Sunny,500,43,60,0
+22:00-24:00,Friday,Commercial Street,0,Rainy,325,26,91,0
+06:00-08:00,Wednesday,"Total Mall, Old Airport Road",0,Cloudy,300,24,63,0
+18:00-20:00,Monday,"Phoenix Marketcity, Whitefield",0,Windy,2200,226,159,0
+10:00-12:00,Wednesday,Commercial Street,0,Rainy,325,33,157,0
+18:00-20:00,Thursday,"Mantri Square Mall, Malleswaram",1,Windy,2350,191,97,1
+20:00-22:00,Saturday,Indiranagar 100 Feet Road,0,Cloudy,400,21,31,0
+16:00-18:00,Thursday,JC Road Multi-Level Parking,0,Sunny,300,35,45,0
+04:00-06:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,490,163,0
+08:00-10:00,Sunday,Brigade Road,0,Cloudy,385,37,153,0
+16:00-18:00,Tuesday,Brigade Road,0,Sunny,385,16,63,0
+04:00-06:00,Tuesday,Church Street,0,Rainy,500,85,94,0
+06:00-08:00,Wednesday,Jayanagar 4th Block,1,Sunny,550,50,52,0
+16:00-18:00,Monday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,596,94,0
+20:00-22:00,Wednesday,"Total Mall, Old Airport Road",0,Cloudy,300,32,30,0
+06:00-08:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,711,299,0
+08:00-10:00,Saturday,Freedom Park,0,Rainy,1400,422,146,0
+18:00-20:00,Sunday,Commercial Street,0,Rainy,325,9,17,0
+18:00-20:00,Sunday,"International Tech Park (ITPL), Whitefield",1,Sunny,1400,124,76,0
+02:00-04:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,262,241,0
+02:00-04:00,Thursday,"Manyata Tech Park, Hebbal",1,Windy,1700,243,84,0
+12:00-14:00,Monday,Jayanagar 4th Block,0,Sunny,550,85,104,0
+06:00-08:00,Wednesday,"Total Mall, Old Airport Road",0,Cloudy,300,16,85,1
+12:00-14:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,697,136,1
+08:00-10:00,Tuesday,KR Market Parking Complex,0,Sunny,370,19,67,0
+16:00-18:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Windy,2350,326,109,0
+02:00-04:00,Sunday,Indiranagar 100 Feet Road,0,Rainy,400,14,50,0
+06:00-08:00,Tuesday,JC Road Multi-Level Parking,0,Rainy,300,70,96,0
+20:00-22:00,Monday,Jayanagar 4th Block,0,Sunny,550,47,71,1
+08:00-10:00,Thursday,JC Road Multi-Level Parking,0,Cloudy,300,43,48,0
+08:00-10:00,Monday,"Manyata Tech Park, Hebbal",1,Cloudy,1700,275,161,0
+14:00-16:00,Friday,"Total Mall, Old Airport Road",1,Cloudy,300,37,31,1
+18:00-20:00,Friday,"Orion Mall, Malleshwaram",0,Sunny,6200,816,167,1
+22:00-24:00,Thursday,Indiranagar 100 Feet Road,0,Cloudy,400,40,109,0
+18:00-20:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,264,147,0
+20:00-22:00,Monday,Jayanagar 4th Block,1,Rainy,550,40,60,0
+02:00-04:00,Sunday,Commercial Street,0,Rainy,325,12,60,0
+10:00-12:00,Tuesday,"Manyata Tech Park, Hebbal",0,Sunny,1700,478,311,0
+04:00-06:00,Friday,"Orion Mall, Malleshwaram",0,Cloudy,6200,2835,254,0
+04:00-06:00,Friday,Freedom Park,1,Sunny,1400,190,53,0
+16:00-18:00,Saturday,Commercial Street,0,Windy,325,11,28,0
+18:00-20:00,Tuesday,Church Street,0,Windy,500,42,31,0
+04:00-06:00,Thursday,"Manyata Tech Park, Hebbal",0,Sunny,1700,424,153,1
+06:00-08:00,Monday,"Phoenix Marketcity, Whitefield",1,Rainy,2200,295,207,0
+14:00-16:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,572,168,0
+10:00-12:00,Monday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,1070,134,0
+02:00-04:00,Friday,"Orion Mall, Malleshwaram",0,Windy,6200,1349,450,0
+20:00-22:00,Thursday,Indiranagar 100 Feet Road,1,Sunny,400,9,25,0
+10:00-12:00,Tuesday,Freedom Park,1,Windy,1400,153,65,0
+10:00-12:00,Monday,Indiranagar 100 Feet Road,0,Sunny,400,39,66,1
+22:00-24:00,Sunday,Commercial Street,0,Rainy,325,16,94,1
+10:00-12:00,Thursday,Indiranagar 100 Feet Road,0,Windy,400,47,99,0
+02:00-04:00,Saturday,Citywide Parking Overview,0,Windy,5300,481,1064,0
+16:00-18:00,Sunday,"Manyata Tech Park, Hebbal",0,Windy,1700,106,50,0
+08:00-10:00,Tuesday,"Orion Mall, Malleshwaram",0,Rainy,6200,2435,414,0
+10:00-12:00,Saturday,"Phoenix Marketcity, Whitefield",1,Rainy,2200,559,155,0
+14:00-16:00,Sunday,"Total Mall, Old Airport Road",0,Cloudy,300,17,51,0
+20:00-22:00,Monday,Freedom Park,0,Windy,1400,128,62,1
+00:00-02:00,Tuesday,Citywide Parking Overview,0,Cloudy,5300,561,2336,0
+08:00-10:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Windy,2350,632,273,0
+02:00-04:00,Tuesday,Citywide Parking Overview,0,Rainy,5300,594,998,0
+20:00-22:00,Tuesday,Citywide Parking Overview,0,Windy,5300,188,659,0
+08:00-10:00,Friday,"Orion Mall, Malleshwaram",0,Sunny,6200,1877,531,0
+04:00-06:00,Tuesday,"Orion Mall, Malleshwaram",0,Rainy,6200,2583,546,0
+18:00-20:00,Tuesday,JC Road Multi-Level Parking,0,Windy,300,15,19,0
+08:00-10:00,Sunday,Citywide Parking Overview,0,Sunny,5300,502,471,0
+12:00-14:00,Tuesday,"Manyata Tech Park, Hebbal",0,Sunny,1700,636,326,0
+10:00-12:00,Wednesday,Commercial Street,0,Cloudy,325,35,158,0
+16:00-18:00,Saturday,"Orion Mall, Malleshwaram",0,Rainy,6200,1013,139,0
+14:00-16:00,Friday,Brigade Road,0,Sunny,385,26,132,0
+22:00-24:00,Friday,Church Street,0,Sunny,500,62,110,0
+02:00-04:00,Monday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,584,165,0
+18:00-20:00,Sunday,"Total Mall, Old Airport Road",0,Sunny,300,11,28,0
+22:00-24:00,Thursday,Freedom Park,0,Rainy,1400,493,215,0
+08:00-10:00,Sunday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,647,178,1
+10:00-12:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,448,176,0
+10:00-12:00,Friday,Commercial Street,0,Windy,325,31,99,0
+18:00-20:00,Tuesday,Freedom Park,0,Cloudy,1400,333,134,0
+12:00-14:00,Monday,Citywide Parking Overview,0,Cloudy,5300,282,596,1
+00:00-02:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,353,208,0
+16:00-18:00,Thursday,JC Road Multi-Level Parking,0,Rainy,300,43,23,0
+00:00-02:00,Saturday,Commercial Street,1,Windy,325,25,55,1
+10:00-12:00,Thursday,Church Street,0,Sunny,500,87,49,1
+06:00-08:00,Thursday,Indiranagar 100 Feet Road,0,Windy,400,43,131,0
+08:00-10:00,Friday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,406,301,0
+02:00-04:00,Friday,JC Road Multi-Level Parking,0,Sunny,300,44,69,0
+08:00-10:00,Wednesday,"Orion Mall, Malleshwaram",0,Sunny,6200,3575,464,0
+12:00-14:00,Tuesday,Jayanagar 4th Block,1,Rainy,550,65,68,0
+02:00-04:00,Tuesday,Freedom Park,0,Cloudy,1400,287,165,0
+00:00-02:00,Thursday,"Mantri Square Mall, Malleswaram",1,Windy,2350,727,130,0
+12:00-14:00,Monday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,511,305,0
+12:00-14:00,Friday,"Manyata Tech Park, Hebbal",0,Rainy,1700,607,312,0
+08:00-10:00,Wednesday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,130,205,1
+16:00-18:00,Wednesday,Jayanagar 4th Block,0,Windy,550,67,41,0
+06:00-08:00,Tuesday,"Orion Mall, Malleshwaram",0,Cloudy,6200,3326,474,0
+18:00-20:00,Saturday,Freedom Park,0,Sunny,1400,150,91,1
+14:00-16:00,Saturday,"Manyata Tech Park, Hebbal",0,Sunny,1700,332,134,0
+10:00-12:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,969,226,0
+08:00-10:00,Tuesday,Commercial Street,1,Sunny,325,9,95,0
+12:00-14:00,Wednesday,Indiranagar 100 Feet Road,0,Sunny,400,84,52,0
+22:00-24:00,Sunday,Citywide Parking Overview,0,Rainy,5300,291,540,0
+14:00-16:00,Monday,"Orion Mall, Malleshwaram",0,Rainy,6200,1492,393,0
+08:00-10:00,Saturday,Brigade Road,0,Sunny,385,17,39,0
+00:00-02:00,Sunday,Citywide Parking Overview,0,Windy,5300,281,1750,0
+06:00-08:00,Tuesday,Indiranagar 100 Feet Road,0,Cloudy,400,54,121,0
+04:00-06:00,Monday,JC Road Multi-Level Parking,0,Windy,300,104,61,0
+14:00-16:00,Tuesday,Church Street,0,Rainy,500,42,196,0
+14:00-16:00,Sunday,Commercial Street,1,Cloudy,325,9,57,0
+06:00-08:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,322,184,0
+12:00-14:00,Sunday,Brigade Road,1,Sunny,385,9,36,0
+10:00-12:00,Sunday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,347,190,0
+10:00-12:00,Monday,Freedom Park,0,Rainy,1400,555,133,0
+08:00-10:00,Sunday,Brigade Road,1,Cloudy,385,26,55,0
+02:00-04:00,Wednesday,Church Street,0,Rainy,500,125,76,0
+00:00-02:00,Monday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,969,315,0
+02:00-04:00,Wednesday,Jayanagar 4th Block,0,Sunny,550,59,32,1
+14:00-16:00,Wednesday,KR Market Parking Complex,0,Sunny,370,35,141,0
+18:00-20:00,Thursday,Indiranagar 100 Feet Road,1,Windy,400,19,19,1
+20:00-22:00,Friday,Jayanagar 4th Block,0,Cloudy,550,69,74,0
+12:00-14:00,Monday,Commercial Street,0,Sunny,325,13,63,1
+12:00-14:00,Sunday,"Mantri Square Mall, Malleswaram",1,Rainy,2350,287,108,0
+10:00-12:00,Wednesday,"Orion Mall, Malleshwaram",0,Windy,6200,2596,590,0
+00:00-02:00,Saturday,Freedom Park,0,Rainy,1400,262,87,1
+02:00-04:00,Sunday,Citywide Parking Overview,1,Windy,5300,329,618,0
+14:00-16:00,Wednesday,Freedom Park,0,Rainy,1400,736,111,0
+02:00-04:00,Tuesday,Citywide Parking Overview,0,Sunny,5300,411,1354,0
+06:00-08:00,Sunday,KR Market Parking Complex,0,Cloudy,370,16,53,0
+12:00-14:00,Tuesday,"Mantri Square Mall, Malleswaram",1,Rainy,2350,658,171,0
+12:00-14:00,Wednesday,JC Road Multi-Level Parking,0,Rainy,300,73,81,0
+20:00-22:00,Friday,Commercial Street,1,Cloudy,325,9,16,1
+18:00-20:00,Friday,Church Street,0,Rainy,500,32,97,0
+16:00-18:00,Sunday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,216,98,0
+18:00-20:00,Thursday,"Mantri Square Mall, Malleswaram",0,Windy,2350,453,111,0
+04:00-06:00,Saturday,Church Street,0,Sunny,500,64,91,0
+20:00-22:00,Friday,Indiranagar 100 Feet Road,0,Windy,400,37,35,1
+12:00-14:00,Saturday,Church Street,0,Cloudy,500,53,127,0
+10:00-12:00,Friday,Commercial Street,0,Windy,325,20,73,0
+20:00-22:00,Wednesday,Freedom Park,0,Cloudy,1400,297,65,0
+00:00-02:00,Sunday,"Total Mall, Old Airport Road",1,Sunny,300,34,63,1
+04:00-06:00,Monday,JC Road Multi-Level Parking,0,Cloudy,300,42,81,0
+20:00-22:00,Monday,"Orion Mall, Malleshwaram",1,Windy,6200,483,139,0
+00:00-02:00,Monday,Commercial Street,0,Rainy,325,38,85,0
+06:00-08:00,Friday,Freedom Park,0,Rainy,1400,261,179,0
+14:00-16:00,Monday,Church Street,0,Windy,500,99,153,0
+10:00-12:00,Thursday,Citywide Parking Overview,0,Rainy,5300,793,1789,0
+12:00-14:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,928,314,0
+08:00-10:00,Monday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,543,150,0
+16:00-18:00,Saturday,Jayanagar 4th Block,0,Sunny,550,21,35,1
+14:00-16:00,Saturday,Church Street,1,Rainy,500,64,155,0
+12:00-14:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,376,123,0
+18:00-20:00,Tuesday,Indiranagar 100 Feet Road,1,Cloudy,400,30,40,0
+00:00-02:00,Tuesday,Freedom Park,0,Rainy,1400,491,172,0
+02:00-04:00,Tuesday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,484,103,0
+14:00-16:00,Saturday,Brigade Road,0,Windy,385,11,60,0
+10:00-12:00,Sunday,Jayanagar 4th Block,1,Rainy,550,69,109,0
+04:00-06:00,Friday,Jayanagar 4th Block,0,Rainy,550,187,161,0
+00:00-02:00,Monday,Citywide Parking Overview,1,Sunny,5300,479,702,0
+10:00-12:00,Thursday,Jayanagar 4th Block,0,Cloudy,550,157,108,0
+04:00-06:00,Wednesday,Commercial Street,0,Sunny,325,33,161,0
+16:00-18:00,Sunday,Indiranagar 100 Feet Road,0,Rainy,400,11,51,0
+14:00-16:00,Sunday,Church Street,1,Cloudy,500,78,90,0
+04:00-06:00,Friday,Citywide Parking Overview,1,Cloudy,5300,203,1079,0
+00:00-02:00,Saturday,Freedom Park,0,Windy,1400,305,134,0
+16:00-18:00,Sunday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,63,70,1
+02:00-04:00,Wednesday,Citywide Parking Overview,1,Cloudy,5300,403,1099,1
+00:00-02:00,Sunday,"Total Mall, Old Airport Road",0,Windy,300,16,57,0
+02:00-04:00,Friday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,338,262,0
+10:00-12:00,Thursday,JC Road Multi-Level Parking,0,Windy,300,42,31,0
+14:00-16:00,Wednesday,KR Market Parking Complex,0,Sunny,370,36,83,0
+20:00-22:00,Friday,KR Market Parking Complex,0,Windy,370,15,89,0
+04:00-06:00,Tuesday,"Total Mall, Old Airport Road",0,Cloudy,300,40,110,0
+06:00-08:00,Monday,Brigade Road,0,Rainy,385,47,176,0
+14:00-16:00,Saturday,"Orion Mall, Malleshwaram",0,Windy,6200,1153,254,0
+00:00-02:00,Monday,JC Road Multi-Level Parking,0,Windy,300,19,38,1
+22:00-24:00,Tuesday,Freedom Park,0,Cloudy,1400,441,154,0
+10:00-12:00,Saturday,"Manyata Tech Park, Hebbal",0,Sunny,1700,218,194,0
+22:00-24:00,Saturday,"International Tech Park (ITPL), Whitefield",1,Cloudy,1400,184,59,0
+16:00-18:00,Thursday,KR Market Parking Complex,1,Rainy,370,14,34,0
+02:00-04:00,Thursday,Commercial Street,0,Cloudy,325,19,133,0
+12:00-14:00,Tuesday,"Total Mall, Old Airport Road",0,Cloudy,300,48,128,0
+18:00-20:00,Tuesday,Jayanagar 4th Block,0,Windy,550,30,45,1
+08:00-10:00,Sunday,JC Road Multi-Level Parking,0,Windy,300,25,32,0
+08:00-10:00,Thursday,"Total Mall, Old Airport Road",0,Sunny,300,56,128,0
+06:00-08:00,Saturday,KR Market Parking Complex,0,Sunny,370,34,54,0
+18:00-20:00,Friday,KR Market Parking Complex,1,Rainy,370,13,42,0
+04:00-06:00,Thursday,"Manyata Tech Park, Hebbal",1,Cloudy,1700,158,143,0
+08:00-10:00,Friday,Jayanagar 4th Block,0,Cloudy,550,77,141,0
+10:00-12:00,Wednesday,"Total Mall, Old Airport Road",0,Windy,300,25,71,0
+02:00-04:00,Friday,"Orion Mall, Malleshwaram",0,Cloudy,6200,956,281,1
+08:00-10:00,Saturday,"Total Mall, Old Airport Road",0,Rainy,300,13,90,0
+18:00-20:00,Wednesday,"International Tech Park (ITPL), Whitefield",1,Rainy,1400,117,55,0
+00:00-02:00,Saturday,Indiranagar 100 Feet Road,1,Sunny,400,34,62,0
+00:00-02:00,Tuesday,Indiranagar 100 Feet Road,1,Cloudy,400,43,65,0
+16:00-18:00,Tuesday,Brigade Road,0,Rainy,385,20,60,0
+18:00-20:00,Thursday,Brigade Road,0,Rainy,385,17,40,0
+16:00-18:00,Thursday,KR Market Parking Complex,0,Windy,370,19,58,0
+00:00-02:00,Saturday,Freedom Park,0,Rainy,1400,157,117,0
+14:00-16:00,Monday,JC Road Multi-Level Parking,0,Sunny,300,80,46,0
+16:00-18:00,Monday,Jayanagar 4th Block,0,Windy,550,63,63,1
+14:00-16:00,Friday,Commercial Street,0,Rainy,325,20,52,1
+22:00-24:00,Monday,Citywide Parking Overview,0,Windy,5300,344,1169,0
+10:00-12:00,Sunday,JC Road Multi-Level Parking,0,Cloudy,300,26,29,0
+00:00-02:00,Sunday,Jayanagar 4th Block,0,Sunny,550,63,57,0
+18:00-20:00,Monday,Church Street,0,Windy,500,59,63,0
+02:00-04:00,Monday,Brigade Road,0,Windy,385,30,122,0
+20:00-22:00,Sunday,Indiranagar 100 Feet Road,0,Cloudy,400,25,22,0
+06:00-08:00,Tuesday,Brigade Road,0,Windy,385,30,139,0
+10:00-12:00,Monday,Indiranagar 100 Feet Road,0,Cloudy,400,54,116,0
+22:00-24:00,Monday,Freedom Park,0,Windy,1400,530,137,0
+14:00-16:00,Saturday,JC Road Multi-Level Parking,0,Sunny,300,26,25,0
+16:00-18:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,415,91,0
+02:00-04:00,Friday,Citywide Parking Overview,0,Cloudy,5300,954,1023,0
+08:00-10:00,Tuesday,KR Market Parking Complex,0,Rainy,370,33,85,0
+00:00-02:00,Thursday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,1175,383,0
+00:00-02:00,Thursday,Indiranagar 100 Feet Road,0,Cloudy,400,67,88,0
+12:00-14:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,661,115,0
+20:00-22:00,Saturday,"Orion Mall, Malleshwaram",0,Sunny,6200,418,261,0
+16:00-18:00,Friday,"Total Mall, Old Airport Road",0,Rainy,300,11,28,0
+12:00-14:00,Sunday,"Manyata Tech Park, Hebbal",0,Sunny,1700,180,107,0
+06:00-08:00,Friday,Freedom Park,0,Rainy,1400,192,316,0
+22:00-24:00,Friday,"Phoenix Marketcity, Whitefield",1,Rainy,2200,649,166,0
+16:00-18:00,Monday,Citywide Parking Overview,1,Windy,5300,161,627,0
+14:00-16:00,Thursday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,622,222,0
+04:00-06:00,Friday,Commercial Street,0,Windy,325,38,87,0
+20:00-22:00,Friday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,300,60,0
+06:00-08:00,Sunday,Citywide Parking Overview,0,Windy,5300,351,748,1
+22:00-24:00,Thursday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1994,485,0
+04:00-06:00,Friday,Citywide Parking Overview,1,Rainy,5300,350,1160,0
+18:00-20:00,Saturday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,220,91,0
+02:00-04:00,Saturday,Commercial Street,0,Cloudy,325,24,52,0
+02:00-04:00,Sunday,Freedom Park,1,Rainy,1400,181,93,0
+02:00-04:00,Sunday,"Total Mall, Old Airport Road",0,Cloudy,300,31,72,0
+00:00-02:00,Friday,Church Street,0,Sunny,500,107,184,0
+08:00-10:00,Thursday,Brigade Road,0,Windy,385,15,124,1
+10:00-12:00,Thursday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,1076,195,0
+20:00-22:00,Wednesday,JC Road Multi-Level Parking,0,Cloudy,300,35,43,0
+16:00-18:00,Monday,Citywide Parking Overview,0,Rainy,5300,242,731,0
+14:00-16:00,Saturday,Citywide Parking Overview,0,Rainy,5300,240,1455,0
+18:00-20:00,Friday,Citywide Parking Overview,0,Sunny,5300,325,966,0
+08:00-10:00,Saturday,JC Road Multi-Level Parking,0,Sunny,300,18,44,0
+22:00-24:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,467,186,0
+06:00-08:00,Thursday,Brigade Road,0,Cloudy,385,42,110,0
+22:00-24:00,Friday,Jayanagar 4th Block,0,Windy,550,144,123,0
+08:00-10:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,232,177,0
+00:00-02:00,Sunday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,594,226,0
+14:00-16:00,Wednesday,KR Market Parking Complex,0,Sunny,370,21,156,0
+02:00-04:00,Saturday,"Mantri Square Mall, Malleswaram",1,Cloudy,2350,358,224,0
+12:00-14:00,Wednesday,Freedom Park,0,Rainy,1400,269,116,1
+10:00-12:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,1013,126,0
+14:00-16:00,Monday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,1252,347,0
+12:00-14:00,Saturday,"Mantri Square Mall, Malleswaram",0,Windy,2350,257,147,1
+20:00-22:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,130,62,0
+14:00-16:00,Wednesday,Indiranagar 100 Feet Road,0,Cloudy,400,58,133,0
+04:00-06:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,418,186,0
+06:00-08:00,Monday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,700,260,0
+02:00-04:00,Saturday,Citywide Parking Overview,0,Rainy,5300,429,782,1
+00:00-02:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Windy,2200,1066,325,0
+14:00-16:00,Friday,Jayanagar 4th Block,0,Cloudy,550,100,187,0
+02:00-04:00,Tuesday,Commercial Street,0,Cloudy,325,12,66,1
+18:00-20:00,Thursday,Jayanagar 4th Block,0,Windy,550,54,66,0
+00:00-02:00,Saturday,KR Market Parking Complex,0,Cloudy,370,13,105,1
+04:00-06:00,Sunday,Brigade Road,1,Windy,385,15,80,0
+02:00-04:00,Monday,"Total Mall, Old Airport Road",0,Windy,300,50,72,0
+04:00-06:00,Thursday,KR Market Parking Complex,1,Windy,370,17,76,1
+14:00-16:00,Thursday,Brigade Road,0,Sunny,385,41,100,0
+22:00-24:00,Friday,Freedom Park,0,Rainy,1400,556,192,0
+04:00-06:00,Friday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,388,264,0
+22:00-24:00,Saturday,"Total Mall, Old Airport Road",0,Windy,300,18,68,0
+06:00-08:00,Friday,Indiranagar 100 Feet Road,0,Sunny,400,73,191,0
+18:00-20:00,Saturday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,180,66,0
+04:00-06:00,Monday,Freedom Park,0,Rainy,1400,600,189,0
+12:00-14:00,Monday,"Manyata Tech Park, Hebbal",0,Sunny,1700,464,175,0
+18:00-20:00,Saturday,Church Street,0,Rainy,500,26,35,1
+12:00-14:00,Monday,Citywide Parking Overview,0,Rainy,5300,433,1689,0
+18:00-20:00,Thursday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1149,177,0
+06:00-08:00,Tuesday,"Manyata Tech Park, Hebbal",0,Rainy,1700,455,311,0
+18:00-20:00,Tuesday,Brigade Road,1,Sunny,385,10,58,0
+18:00-20:00,Friday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,180,128,0
+00:00-02:00,Tuesday,Citywide Parking Overview,0,Sunny,5300,527,1075,0
+22:00-24:00,Thursday,JC Road Multi-Level Parking,0,Cloudy,300,46,43,1
+16:00-18:00,Sunday,KR Market Parking Complex,0,Cloudy,370,6,40,0
+10:00-12:00,Saturday,KR Market Parking Complex,0,Windy,370,20,115,0
+14:00-16:00,Friday,Jayanagar 4th Block,0,Cloudy,550,106,100,1
+10:00-12:00,Wednesday,KR Market Parking Complex,0,Rainy,370,19,150,0
+20:00-22:00,Wednesday,JC Road Multi-Level Parking,0,Windy,300,25,34,0
+20:00-22:00,Sunday,JC Road Multi-Level Parking,1,Cloudy,300,13,18,1
+10:00-12:00,Thursday,Indiranagar 100 Feet Road,0,Sunny,400,68,99,0
+04:00-06:00,Thursday,Jayanagar 4th Block,1,Cloudy,550,84,106,0
+12:00-14:00,Sunday,Indiranagar 100 Feet Road,0,Cloudy,400,67,40,0
+14:00-16:00,Tuesday,Commercial Street,1,Cloudy,325,11,41,0
+12:00-14:00,Friday,"Phoenix Marketcity, Whitefield",0,Windy,2200,969,179,0
+02:00-04:00,Sunday,Freedom Park,0,Cloudy,1400,275,129,1
+00:00-02:00,Saturday,Church Street,0,Sunny,500,66,47,0
+20:00-22:00,Thursday,Commercial Street,0,Windy,325,20,47,0
+00:00-02:00,Friday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,1018,185,0
+08:00-10:00,Wednesday,Jayanagar 4th Block,0,Cloudy,550,163,73,0
+16:00-18:00,Friday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,263,99,1
+02:00-04:00,Sunday,Brigade Road,0,Windy,385,14,72,1
+06:00-08:00,Saturday,Jayanagar 4th Block,0,Cloudy,550,47,117,0
+22:00-24:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,833,183,0
+08:00-10:00,Thursday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,1022,398,0
+04:00-06:00,Wednesday,JC Road Multi-Level Parking,0,Rainy,300,36,37,1
+08:00-10:00,Friday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,482,102,1
+22:00-24:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,306,139,0
+06:00-08:00,Monday,Indiranagar 100 Feet Road,1,Sunny,400,47,35,0
+16:00-18:00,Sunday,"Phoenix Marketcity, Whitefield",0,Windy,2200,106,61,0
+04:00-06:00,Monday,KR Market Parking Complex,0,Rainy,370,26,147,0
+18:00-20:00,Tuesday,Indiranagar 100 Feet Road,0,Rainy,400,10,30,1
+10:00-12:00,Friday,KR Market Parking Complex,0,Sunny,370,41,102,0
+16:00-18:00,Friday,"Total Mall, Old Airport Road",0,Sunny,300,31,28,0
+12:00-14:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,804,179,0
+22:00-24:00,Wednesday,"Orion Mall, Malleshwaram",1,Cloudy,6200,1280,280,0
+00:00-02:00,Friday,"Total Mall, Old Airport Road",1,Sunny,300,24,30,0
+16:00-18:00,Tuesday,"Total Mall, Old Airport Road",0,Windy,300,21,45,0
+18:00-20:00,Saturday,"Manyata Tech Park, Hebbal",0,Rainy,1700,211,57,0
+12:00-14:00,Friday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,282,85,1
+12:00-14:00,Monday,Freedom Park,0,Cloudy,1400,514,268,0
+22:00-24:00,Friday,"Total Mall, Old Airport Road",0,Windy,300,32,66,0
+04:00-06:00,Monday,"Orion Mall, Malleshwaram",0,Windy,6200,2542,456,0
+14:00-16:00,Saturday,JC Road Multi-Level Parking,0,Sunny,300,31,38,1
+00:00-02:00,Saturday,"Total Mall, Old Airport Road",1,Sunny,300,32,97,0
+22:00-24:00,Tuesday,Church Street,0,Sunny,500,58,170,0
+16:00-18:00,Sunday,KR Market Parking Complex,0,Rainy,370,4,36,0
+18:00-20:00,Saturday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,185,63,0
+12:00-14:00,Friday,JC Road Multi-Level Parking,0,Rainy,300,63,95,0
+16:00-18:00,Monday,Freedom Park,0,Rainy,1400,145,89,0
+18:00-20:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,219,67,0
+08:00-10:00,Wednesday,Brigade Road,0,Windy,385,32,54,1
+06:00-08:00,Saturday,KR Market Parking Complex,0,Rainy,370,24,69,1
+16:00-18:00,Thursday,"Total Mall, Old Airport Road",0,Cloudy,300,15,16,1
+16:00-18:00,Thursday,Indiranagar 100 Feet Road,1,Sunny,400,12,25,0
+18:00-20:00,Sunday,Jayanagar 4th Block,0,Rainy,550,25,17,1
+20:00-22:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,157,36,1
+06:00-08:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,576,137,1
+06:00-08:00,Wednesday,Indiranagar 100 Feet Road,0,Rainy,400,38,59,0
+02:00-04:00,Monday,Citywide Parking Overview,0,Windy,5300,455,1898,0
+12:00-14:00,Saturday,Commercial Street,1,Windy,325,14,54,0
+20:00-22:00,Thursday,Brigade Road,0,Rainy,385,13,88,0
+20:00-22:00,Friday,JC Road Multi-Level Parking,0,Cloudy,300,35,16,0
+18:00-20:00,Wednesday,"Total Mall, Old Airport Road",0,Sunny,300,19,48,0
+20:00-22:00,Sunday,Commercial Street,0,Rainy,325,14,20,0
+18:00-20:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,301,89,0
+22:00-24:00,Saturday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1437,212,0
+16:00-18:00,Monday,Citywide Parking Overview,0,Sunny,5300,290,641,0
+12:00-14:00,Sunday,"Manyata Tech Park, Hebbal",0,Windy,1700,435,169,0
+02:00-04:00,Thursday,"Orion Mall, Malleshwaram",1,Sunny,6200,1444,315,0
+02:00-04:00,Saturday,Freedom Park,0,Windy,1400,280,110,1
+12:00-14:00,Sunday,"Manyata Tech Park, Hebbal",0,Rainy,1700,484,86,0
+14:00-16:00,Monday,"Mantri Square Mall, Malleswaram",0,Windy,2350,715,320,0
+06:00-08:00,Saturday,Commercial Street,0,Rainy,325,27,82,0
+04:00-06:00,Thursday,Indiranagar 100 Feet Road,0,Rainy,400,73,83,0
+20:00-22:00,Monday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,347,101,0
+12:00-14:00,Wednesday,"Total Mall, Old Airport Road",0,Cloudy,300,47,86,0
+10:00-12:00,Tuesday,"Mantri Square Mall, Malleswaram",1,Sunny,2350,575,114,1
+18:00-20:00,Sunday,Commercial Street,0,Sunny,325,8,31,0
+12:00-14:00,Friday,Brigade Road,0,Cloudy,385,18,91,0
+14:00-16:00,Thursday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,647,184,1
+20:00-22:00,Saturday,Church Street,0,Windy,500,20,50,0
+08:00-10:00,Friday,Jayanagar 4th Block,0,Rainy,550,67,130,0
+10:00-12:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Windy,2200,272,177,1
+14:00-16:00,Sunday,"Mantri Square Mall, Malleswaram",0,Windy,2350,550,141,0
+02:00-04:00,Monday,Commercial Street,0,Windy,325,45,69,0
+18:00-20:00,Friday,Freedom Park,0,Windy,1400,167,99,0
+14:00-16:00,Thursday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,549,295,0
+00:00-02:00,Saturday,"Manyata Tech Park, Hebbal",1,Sunny,1700,294,66,1
+10:00-12:00,Tuesday,Freedom Park,0,Windy,1400,512,121,0
+16:00-18:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,103,24,0
+08:00-10:00,Friday,Commercial Street,0,Cloudy,325,38,103,0
+14:00-16:00,Monday,Church Street,0,Rainy,500,79,185,0
+10:00-12:00,Monday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,713,148,0
+10:00-12:00,Tuesday,"Total Mall, Old Airport Road",0,Cloudy,300,31,55,1
+02:00-04:00,Saturday,Jayanagar 4th Block,1,Cloudy,550,44,86,0
+00:00-02:00,Wednesday,Commercial Street,0,Cloudy,325,39,91,0
+08:00-10:00,Sunday,Citywide Parking Overview,0,Rainy,5300,506,1658,0
+22:00-24:00,Thursday,JC Road Multi-Level Parking,0,Windy,300,21,20,1
+02:00-04:00,Monday,JC Road Multi-Level Parking,0,Cloudy,300,30,40,1
+16:00-18:00,Thursday,"Manyata Tech Park, Hebbal",0,Sunny,1700,243,95,0
+20:00-22:00,Saturday,KR Market Parking Complex,0,Windy,370,11,59,0
+16:00-18:00,Friday,Brigade Road,0,Cloudy,385,23,99,0
+02:00-04:00,Monday,Indiranagar 100 Feet Road,0,Cloudy,400,66,74,1
+16:00-18:00,Thursday,Freedom Park,0,Windy,1400,228,91,0
+00:00-02:00,Friday,"Total Mall, Old Airport Road",0,Rainy,300,47,38,0
+16:00-18:00,Saturday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,202,93,0
+22:00-24:00,Friday,Freedom Park,1,Cloudy,1400,191,123,1
+08:00-10:00,Friday,Indiranagar 100 Feet Road,0,Cloudy,400,42,141,0
+00:00-02:00,Thursday,"Total Mall, Old Airport Road",0,Rainy,300,27,88,0
+06:00-08:00,Tuesday,"Total Mall, Old Airport Road",0,Sunny,300,44,65,0
+20:00-22:00,Monday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,344,71,0
+08:00-10:00,Saturday,Brigade Road,0,Windy,385,26,68,0
+14:00-16:00,Monday,Citywide Parking Overview,0,Sunny,5300,364,941,1
+04:00-06:00,Monday,JC Road Multi-Level Parking,0,Sunny,300,91,89,0
+04:00-06:00,Friday,Church Street,0,Cloudy,500,67,117,0
+20:00-22:00,Tuesday,Commercial Street,0,Cloudy,325,19,32,0
+22:00-24:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,267,116,1
+00:00-02:00,Monday,Freedom Park,0,Cloudy,1400,680,229,0
+22:00-24:00,Monday,KR Market Parking Complex,0,Rainy,370,43,171,0
+10:00-12:00,Thursday,Citywide Parking Overview,0,Windy,5300,535,743,1
+06:00-08:00,Monday,Citywide Parking Overview,0,Sunny,5300,540,1313,0
+06:00-08:00,Thursday,JC Road Multi-Level Parking,0,Cloudy,300,43,35,0
+12:00-14:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,611,151,0
+04:00-06:00,Thursday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,1097,139,0
+00:00-02:00,Wednesday,Citywide Parking Overview,0,Sunny,5300,694,1661,0
+10:00-12:00,Thursday,KR Market Parking Complex,0,Windy,370,35,157,0
+16:00-18:00,Saturday,"Manyata Tech Park, Hebbal",0,Windy,1700,172,63,0
+08:00-10:00,Thursday,"Orion Mall, Malleshwaram",0,Windy,6200,1836,494,0
+14:00-16:00,Saturday,"Manyata Tech Park, Hebbal",0,Rainy,1700,258,119,0
+12:00-14:00,Monday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,504,203,0
+08:00-10:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,108,147,1
+22:00-24:00,Thursday,Indiranagar 100 Feet Road,0,Cloudy,400,91,134,0
+02:00-04:00,Wednesday,Church Street,0,Windy,500,72,184,0
+18:00-20:00,Monday,Jayanagar 4th Block,0,Sunny,550,24,26,1
+02:00-04:00,Tuesday,KR Market Parking Complex,0,Sunny,370,35,124,0
+20:00-22:00,Thursday,KR Market Parking Complex,0,Sunny,370,21,61,0
+08:00-10:00,Sunday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,379,146,0
+06:00-08:00,Sunday,"Total Mall, Old Airport Road",0,Windy,300,18,56,0
+02:00-04:00,Friday,Jayanagar 4th Block,0,Sunny,550,29,141,1
+00:00-02:00,Monday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,979,161,0
+18:00-20:00,Monday,Brigade Road,0,Windy,385,21,63,0
+10:00-12:00,Tuesday,"Orion Mall, Malleshwaram",0,Windy,6200,1507,504,0
+00:00-02:00,Monday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,372,230,0
+20:00-22:00,Saturday,Indiranagar 100 Feet Road,1,Cloudy,400,36,17,0
+00:00-02:00,Tuesday,Indiranagar 100 Feet Road,0,Rainy,400,50,79,1
+10:00-12:00,Tuesday,"Orion Mall, Malleshwaram",0,Sunny,6200,1875,220,0
+16:00-18:00,Monday,Indiranagar 100 Feet Road,0,Sunny,400,10,15,1
+10:00-12:00,Saturday,Indiranagar 100 Feet Road,0,Rainy,400,53,75,0
+14:00-16:00,Saturday,"Orion Mall, Malleshwaram",0,Sunny,6200,926,152,1
+20:00-22:00,Sunday,Brigade Road,0,Cloudy,385,6,48,0
+16:00-18:00,Thursday,"Manyata Tech Park, Hebbal",0,Sunny,1700,281,150,0
+12:00-14:00,Friday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,1277,274,0
+14:00-16:00,Sunday,"International Tech Park (ITPL), Whitefield",1,Cloudy,1400,337,117,1
+02:00-04:00,Thursday,Commercial Street,0,Windy,325,41,109,0
+06:00-08:00,Sunday,Citywide Parking Overview,0,Cloudy,5300,333,1207,0
+16:00-18:00,Monday,Indiranagar 100 Feet Road,0,Cloudy,400,36,47,0
+18:00-20:00,Friday,JC Road Multi-Level Parking,0,Cloudy,300,20,14,1
+22:00-24:00,Friday,"Total Mall, Old Airport Road",0,Cloudy,300,50,89,0
+04:00-06:00,Thursday,Indiranagar 100 Feet Road,0,Cloudy,400,87,136,0
+10:00-12:00,Thursday,Indiranagar 100 Feet Road,0,Windy,400,66,147,0
+10:00-12:00,Wednesday,Commercial Street,0,Windy,325,12,57,1
+20:00-22:00,Monday,"Total Mall, Old Airport Road",0,Rainy,300,25,23,0
+06:00-08:00,Tuesday,KR Market Parking Complex,0,Rainy,370,46,143,0
+08:00-10:00,Monday,Jayanagar 4th Block,0,Rainy,550,80,184,0
+10:00-12:00,Saturday,"Phoenix Marketcity, Whitefield",1,Cloudy,2200,360,158,0
+04:00-06:00,Thursday,"Manyata Tech Park, Hebbal",0,Windy,1700,853,246,0
+20:00-22:00,Sunday,"Total Mall, Old Airport Road",0,Windy,300,16,22,0
+20:00-22:00,Saturday,"Manyata Tech Park, Hebbal",0,Windy,1700,117,96,0
+12:00-14:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,839,323,0
+22:00-24:00,Sunday,Citywide Parking Overview,0,Rainy,5300,391,751,0
+20:00-22:00,Saturday,Citywide Parking Overview,0,Rainy,5300,99,752,0
+00:00-02:00,Friday,Church Street,0,Sunny,500,90,156,0
+04:00-06:00,Sunday,Indiranagar 100 Feet Road,0,Rainy,400,37,70,0
+22:00-24:00,Friday,"Total Mall, Old Airport Road",0,Rainy,300,50,64,0
+00:00-02:00,Thursday,Jayanagar 4th Block,0,Rainy,550,134,175,0
+18:00-20:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,258,57,0
+00:00-02:00,Sunday,Commercial Street,0,Cloudy,325,14,107,0
+20:00-22:00,Monday,Church Street,0,Rainy,500,46,65,1
+22:00-24:00,Saturday,KR Market Parking Complex,0,Windy,370,14,77,0
+04:00-06:00,Saturday,"Total Mall, Old Airport Road",0,Cloudy,300,18,73,0
+12:00-14:00,Thursday,"Manyata Tech Park, Hebbal",1,Sunny,1700,132,207,1
+08:00-10:00,Sunday,Church Street,0,Rainy,500,66,153,1
+22:00-24:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,939,332,0
+22:00-24:00,Tuesday,"Total Mall, Old Airport Road",0,Cloudy,300,57,128,0
+12:00-14:00,Sunday,Church Street,1,Windy,500,38,95,0
+18:00-20:00,Thursday,"Manyata Tech Park, Hebbal",0,Rainy,1700,361,91,0
+06:00-08:00,Saturday,Indiranagar 100 Feet Road,0,Cloudy,400,52,57,0
+18:00-20:00,Friday,Commercial Street,0,Sunny,325,8,55,1
+06:00-08:00,Tuesday,Citywide Parking Overview,1,Cloudy,5300,230,958,1
+14:00-16:00,Tuesday,"Total Mall, Old Airport Road",0,Cloudy,300,36,107,0
+22:00-24:00,Sunday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,427,67,1
+02:00-04:00,Sunday,KR Market Parking Complex,0,Cloudy,370,11,140,0
+02:00-04:00,Monday,KR Market Parking Complex,0,Rainy,370,34,44,1
+08:00-10:00,Thursday,Commercial Street,0,Sunny,325,33,120,0
+06:00-08:00,Sunday,Jayanagar 4th Block,0,Cloudy,550,78,81,0
+14:00-16:00,Friday,"International Tech Park (ITPL), Whitefield",1,Rainy,1400,344,94,0
+12:00-14:00,Friday,"Orion Mall, Malleshwaram",0,Cloudy,6200,3356,654,0
+14:00-16:00,Friday,Church Street,0,Sunny,500,156,155,0
+20:00-22:00,Friday,"Total Mall, Old Airport Road",0,Rainy,300,6,35,1
+12:00-14:00,Wednesday,KR Market Parking Complex,0,Cloudy,370,23,90,1
+10:00-12:00,Friday,Freedom Park,1,Sunny,1400,277,117,0
+04:00-06:00,Thursday,KR Market Parking Complex,0,Sunny,370,27,207,0
+06:00-08:00,Friday,Freedom Park,1,Cloudy,1400,297,144,0
+14:00-16:00,Thursday,"Total Mall, Old Airport Road",0,Sunny,300,47,89,0
+14:00-16:00,Friday,JC Road Multi-Level Parking,0,Sunny,300,37,48,0
+02:00-04:00,Wednesday,"Orion Mall, Malleshwaram",0,Windy,6200,2254,285,0
+14:00-16:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,593,206,0
+08:00-10:00,Monday,Brigade Road,1,Windy,385,23,82,0
+20:00-22:00,Monday,"Phoenix Marketcity, Whitefield",0,Windy,2200,424,65,0
+16:00-18:00,Monday,KR Market Parking Complex,0,Sunny,370,8,31,1
+04:00-06:00,Sunday,Citywide Parking Overview,0,Rainy,5300,227,709,1
+04:00-06:00,Saturday,"Manyata Tech Park, Hebbal",0,Rainy,1700,255,131,0
+22:00-24:00,Friday,"Total Mall, Old Airport Road",1,Windy,300,20,52,0
+18:00-20:00,Tuesday,"Manyata Tech Park, Hebbal",0,Rainy,1700,267,46,1
+00:00-02:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,200,125,1
+06:00-08:00,Monday,"Orion Mall, Malleshwaram",0,Sunny,6200,2341,392,0
+22:00-24:00,Monday,Commercial Street,0,Rainy,325,35,102,0
+08:00-10:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,281,106,1
+02:00-04:00,Saturday,Commercial Street,0,Windy,325,18,65,0
+10:00-12:00,Sunday,Citywide Parking Overview,0,Cloudy,5300,631,1196,0
+02:00-04:00,Monday,Brigade Road,0,Cloudy,385,28,75,0
+16:00-18:00,Wednesday,Freedom Park,0,Cloudy,1400,359,105,0
+04:00-06:00,Tuesday,KR Market Parking Complex,0,Windy,370,19,163,0
+00:00-02:00,Saturday,Citywide Parking Overview,0,Cloudy,5300,396,1204,0
+04:00-06:00,Thursday,"Orion Mall, Malleshwaram",0,Windy,6200,2509,659,0
+10:00-12:00,Wednesday,Church Street,0,Rainy,500,57,171,0
+16:00-18:00,Sunday,Indiranagar 100 Feet Road,0,Rainy,400,15,37,0
+22:00-24:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,576,305,0
+18:00-20:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,109,38,0
+06:00-08:00,Sunday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,227,126,0
+16:00-18:00,Monday,"Total Mall, Old Airport Road",1,Sunny,300,14,16,0
+16:00-18:00,Thursday,"Mantri Square Mall, Malleswaram",1,Windy,2350,157,110,0
+00:00-02:00,Thursday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,849,125,1
+22:00-24:00,Thursday,Citywide Parking Overview,1,Cloudy,5300,269,978,0
+10:00-12:00,Friday,KR Market Parking Complex,0,Rainy,370,42,116,0
+10:00-12:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,494,186,0
+04:00-06:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,373,58,1
+08:00-10:00,Tuesday,KR Market Parking Complex,1,Cloudy,370,17,48,0
+22:00-24:00,Saturday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,452,63,0
+04:00-06:00,Friday,"Orion Mall, Malleshwaram",0,Windy,6200,2536,412,0
+22:00-24:00,Saturday,"International Tech Park (ITPL), Whitefield",1,Sunny,1400,124,79,0
+06:00-08:00,Monday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,926,166,0
+16:00-18:00,Friday,Commercial Street,0,Sunny,325,9,36,0
+22:00-24:00,Sunday,Commercial Street,0,Windy,325,23,101,0
+04:00-06:00,Saturday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,523,82,0
+04:00-06:00,Tuesday,Indiranagar 100 Feet Road,1,Sunny,400,55,34,0
+08:00-10:00,Monday,"Total Mall, Old Airport Road",0,Rainy,300,37,76,0
+02:00-04:00,Wednesday,Indiranagar 100 Feet Road,1,Windy,400,29,36,1
+00:00-02:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,378,108,1
+00:00-02:00,Sunday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,292,97,1
+00:00-02:00,Friday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,288,133,0
+12:00-14:00,Friday,"Total Mall, Old Airport Road",0,Windy,300,37,62,0
+00:00-02:00,Monday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,380,167,0
+00:00-02:00,Tuesday,"Total Mall, Old Airport Road",1,Windy,300,16,40,0
+08:00-10:00,Saturday,Church Street,0,Cloudy,500,37,67,0
+16:00-18:00,Thursday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,472,153,0
+06:00-08:00,Wednesday,Freedom Park,0,Windy,1400,195,118,1
+18:00-20:00,Monday,Jayanagar 4th Block,0,Windy,550,75,95,0
+20:00-22:00,Monday,"Manyata Tech Park, Hebbal",0,Sunny,1700,317,137,0
+14:00-16:00,Friday,Indiranagar 100 Feet Road,0,Sunny,400,103,92,0
+02:00-04:00,Monday,JC Road Multi-Level Parking,1,Cloudy,300,61,24,0
+18:00-20:00,Saturday,Brigade Road,0,Windy,385,11,21,1
+20:00-22:00,Monday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,277,91,0
+14:00-16:00,Monday,"Orion Mall, Malleshwaram",0,Rainy,6200,2750,384,0
+14:00-16:00,Tuesday,"Total Mall, Old Airport Road",0,Sunny,300,23,45,0
+18:00-20:00,Saturday,JC Road Multi-Level Parking,0,Cloudy,300,11,34,0
+00:00-02:00,Wednesday,Jayanagar 4th Block,0,Sunny,550,65,137,0
+18:00-20:00,Friday,"Orion Mall, Malleshwaram",0,Rainy,6200,965,175,0
+04:00-06:00,Thursday,JC Road Multi-Level Parking,0,Sunny,300,72,108,0
+04:00-06:00,Thursday,"Mantri Square Mall, Malleswaram",0,Windy,2350,449,210,0
+20:00-22:00,Wednesday,"Total Mall, Old Airport Road",1,Cloudy,300,12,13,0
+00:00-02:00,Monday,Commercial Street,0,Sunny,325,15,115,0
+06:00-08:00,Monday,"Total Mall, Old Airport Road",0,Rainy,300,57,49,0
+16:00-18:00,Thursday,"Total Mall, Old Airport Road",0,Cloudy,300,14,65,0
+12:00-14:00,Monday,Freedom Park,0,Sunny,1400,283,216,0
+16:00-18:00,Saturday,KR Market Parking Complex,0,Sunny,370,5,21,0
+00:00-02:00,Monday,Citywide Parking Overview,0,Windy,5300,313,911,1
+04:00-06:00,Wednesday,"International Tech Park (ITPL), Whitefield",1,Sunny,1400,186,61,0
+12:00-14:00,Monday,Freedom Park,0,Windy,1400,516,140,0
+08:00-10:00,Tuesday,"Manyata Tech Park, Hebbal",0,Windy,1700,439,200,1
+14:00-16:00,Sunday,Jayanagar 4th Block,1,Sunny,550,79,78,0
+14:00-16:00,Friday,Commercial Street,0,Sunny,325,23,122,0
+08:00-10:00,Friday,Brigade Road,0,Rainy,385,59,207,0
+02:00-04:00,Thursday,Freedom Park,0,Sunny,1400,512,80,0
+18:00-20:00,Saturday,Commercial Street,0,Cloudy,325,3,23,0
+02:00-04:00,Friday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,634,377,0
+16:00-18:00,Wednesday,"Total Mall, Old Airport Road",0,Rainy,300,11,29,0
+22:00-24:00,Saturday,KR Market Parking Complex,0,Sunny,370,23,85,0
+22:00-24:00,Tuesday,Brigade Road,0,Sunny,385,56,190,0
+02:00-04:00,Friday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,564,165,1
+18:00-20:00,Thursday,"Orion Mall, Malleshwaram",0,Rainy,6200,1638,237,0
+00:00-02:00,Thursday,Freedom Park,0,Rainy,1400,491,224,0
+08:00-10:00,Thursday,Jayanagar 4th Block,0,Sunny,550,90,78,1
+12:00-14:00,Saturday,JC Road Multi-Level Parking,0,Cloudy,300,65,23,0
+22:00-24:00,Wednesday,Indiranagar 100 Feet Road,0,Windy,400,33,34,1
+18:00-20:00,Tuesday,Commercial Street,0,Sunny,325,6,44,1
+02:00-04:00,Thursday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,784,291,0
+20:00-22:00,Saturday,JC Road Multi-Level Parking,1,Sunny,300,25,14,0
+08:00-10:00,Sunday,"Phoenix Marketcity, Whitefield",0,Windy,2200,438,167,0
+02:00-04:00,Sunday,"Phoenix Marketcity, Whitefield",1,Cloudy,2200,419,154,0
+02:00-04:00,Sunday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,631,146,1
+18:00-20:00,Monday,"Orion Mall, Malleshwaram",0,Sunny,6200,779,261,0
+14:00-16:00,Monday,Church Street,0,Sunny,500,135,146,0
+20:00-22:00,Saturday,KR Market Parking Complex,0,Sunny,370,15,35,0
+20:00-22:00,Wednesday,Freedom Park,0,Cloudy,1400,199,55,0
+08:00-10:00,Sunday,Citywide Parking Overview,1,Windy,5300,193,1459,0
+10:00-12:00,Saturday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,348,111,0
+02:00-04:00,Saturday,Church Street,0,Cloudy,500,63,46,1
+20:00-22:00,Wednesday,Commercial Street,0,Rainy,325,21,84,0
+12:00-14:00,Friday,Citywide Parking Overview,1,Sunny,5300,591,1197,0
+10:00-12:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,903,256,0
+16:00-18:00,Friday,"International Tech Park (ITPL), Whitefield",1,Windy,1400,204,49,0
+18:00-20:00,Friday,Freedom Park,0,Rainy,1400,271,64,0
+04:00-06:00,Monday,"Orion Mall, Malleshwaram",0,Rainy,6200,3536,221,0
+00:00-02:00,Sunday,Freedom Park,0,Sunny,1400,146,182,0
+10:00-12:00,Monday,"Manyata Tech Park, Hebbal",0,Rainy,1700,675,213,0
+06:00-08:00,Thursday,KR Market Parking Complex,0,Sunny,370,25,106,0
+16:00-18:00,Friday,Church Street,0,Rainy,500,40,80,0
+16:00-18:00,Sunday,Commercial Street,0,Windy,325,9,38,1
+16:00-18:00,Tuesday,"Total Mall, Old Airport Road",0,Rainy,300,20,23,0
+12:00-14:00,Friday,"Phoenix Marketcity, Whitefield",1,Cloudy,2200,236,52,0
+14:00-16:00,Monday,Citywide Parking Overview,0,Windy,5300,527,1166,0
+10:00-12:00,Thursday,Brigade Road,0,Rainy,385,54,67,0
+04:00-06:00,Saturday,"Manyata Tech Park, Hebbal",0,Sunny,1700,189,54,0
+02:00-04:00,Monday,JC Road Multi-Level Parking,1,Cloudy,300,41,51,0
+10:00-12:00,Saturday,Jayanagar 4th Block,0,Cloudy,550,43,57,0
+22:00-24:00,Saturday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,369,126,0
+08:00-10:00,Friday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,502,310,0
+18:00-20:00,Thursday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,376,66,0
+12:00-14:00,Monday,Commercial Street,0,Cloudy,325,18,178,0
+22:00-24:00,Monday,KR Market Parking Complex,0,Cloudy,370,14,58,1
+12:00-14:00,Monday,Indiranagar 100 Feet Road,0,Sunny,400,76,137,0
+08:00-10:00,Sunday,Commercial Street,0,Windy,325,9,96,0
+20:00-22:00,Sunday,"Mantri Square Mall, Malleswaram",0,Windy,2350,109,84,0
+20:00-22:00,Thursday,Indiranagar 100 Feet Road,0,Rainy,400,26,42,0
+16:00-18:00,Saturday,"International Tech Park (ITPL), Whitefield",1,Sunny,1400,95,61,0
+08:00-10:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,468,75,1
+02:00-04:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,128,108,0
+04:00-06:00,Friday,Jayanagar 4th Block,0,Rainy,550,127,164,0
+16:00-18:00,Friday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,272,97,0
+18:00-20:00,Wednesday,Indiranagar 100 Feet Road,0,Windy,400,26,55,1
+04:00-06:00,Sunday,Indiranagar 100 Feet Road,1,Windy,400,33,56,0
+10:00-12:00,Sunday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,373,218,0
+04:00-06:00,Friday,Commercial Street,0,Cloudy,325,48,200,0
+18:00-20:00,Friday,Freedom Park,0,Rainy,1400,122,135,0
+08:00-10:00,Sunday,"Total Mall, Old Airport Road",0,Rainy,300,40,77,0
+22:00-24:00,Sunday,"Manyata Tech Park, Hebbal",0,Windy,1700,208,78,0
+10:00-12:00,Monday,Church Street,1,Rainy,500,42,46,1
+20:00-22:00,Saturday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,273,47,1
+18:00-20:00,Saturday,Freedom Park,0,Sunny,1400,182,49,0
+16:00-18:00,Saturday,KR Market Parking Complex,1,Windy,370,7,31,1
+12:00-14:00,Friday,Commercial Street,1,Sunny,325,22,75,1
+06:00-08:00,Sunday,Citywide Parking Overview,0,Windy,5300,568,1527,0
+22:00-24:00,Sunday,"Total Mall, Old Airport Road",0,Sunny,300,11,66,1
+18:00-20:00,Friday,"Manyata Tech Park, Hebbal",0,Windy,1700,287,131,0
+20:00-22:00,Friday,Jayanagar 4th Block,0,Sunny,550,48,61,0
+04:00-06:00,Saturday,JC Road Multi-Level Parking,0,Windy,300,58,33,1
+00:00-02:00,Saturday,Commercial Street,0,Sunny,325,10,55,0
+10:00-12:00,Thursday,Commercial Street,0,Rainy,325,31,147,0
+02:00-04:00,Sunday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1221,293,0
+18:00-20:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,169,58,0
+22:00-24:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,399,116,0
+12:00-14:00,Saturday,"Total Mall, Old Airport Road",0,Cloudy,300,19,49,0
+06:00-08:00,Thursday,KR Market Parking Complex,0,Windy,370,43,122,0
+16:00-18:00,Sunday,Jayanagar 4th Block,0,Sunny,550,25,50,0
+08:00-10:00,Tuesday,"Manyata Tech Park, Hebbal",0,Sunny,1700,617,330,0
+06:00-08:00,Monday,"Manyata Tech Park, Hebbal",0,Windy,1700,674,215,0
+16:00-18:00,Tuesday,Commercial Street,1,Windy,325,11,50,0
+00:00-02:00,Tuesday,Citywide Parking Overview,0,Cloudy,5300,398,1799,0
+12:00-14:00,Thursday,Jayanagar 4th Block,0,Cloudy,550,130,120,0
+04:00-06:00,Saturday,Brigade Road,0,Sunny,385,18,86,0
+12:00-14:00,Thursday,JC Road Multi-Level Parking,0,Windy,300,53,35,0
+06:00-08:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,1066,218,0
+12:00-14:00,Sunday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1195,159,0
+06:00-08:00,Thursday,Indiranagar 100 Feet Road,0,Rainy,400,38,123,0
+22:00-24:00,Saturday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,285,114,0
+06:00-08:00,Sunday,Jayanagar 4th Block,0,Sunny,550,102,55,0
+02:00-04:00,Sunday,Brigade Road,0,Cloudy,385,33,47,1
+02:00-04:00,Tuesday,KR Market Parking Complex,0,Sunny,370,21,132,0
+00:00-02:00,Sunday,Jayanagar 4th Block,0,Sunny,550,31,93,0
+12:00-14:00,Wednesday,Brigade Road,0,Cloudy,385,43,116,0
+20:00-22:00,Friday,JC Road Multi-Level Parking,0,Windy,300,21,21,0
+10:00-12:00,Sunday,"International Tech Park (ITPL), Whitefield",1,Rainy,1400,242,142,0
+08:00-10:00,Saturday,Freedom Park,0,Windy,1400,332,90,1
+08:00-10:00,Sunday,Church Street,0,Windy,500,40,73,0
+14:00-16:00,Sunday,Indiranagar 100 Feet Road,0,Sunny,400,18,83,0
+00:00-02:00,Monday,"Manyata Tech Park, Hebbal",1,Rainy,1700,187,250,0
+12:00-14:00,Sunday,Indiranagar 100 Feet Road,0,Sunny,400,58,32,0
+08:00-10:00,Friday,"Mantri Square Mall, Malleswaram",1,Sunny,2350,765,105,0
+04:00-06:00,Thursday,KR Market Parking Complex,1,Sunny,370,18,82,0
+20:00-22:00,Friday,Church Street,0,Rainy,500,71,64,0
+06:00-08:00,Friday,Brigade Road,0,Sunny,385,58,92,0
+16:00-18:00,Monday,JC Road Multi-Level Parking,0,Windy,300,13,39,1
+20:00-22:00,Sunday,KR Market Parking Complex,0,Sunny,370,11,34,1
+02:00-04:00,Tuesday,JC Road Multi-Level Parking,0,Sunny,300,59,38,1
+14:00-16:00,Saturday,Church Street,1,Windy,500,33,52,0
+02:00-04:00,Tuesday,"Total Mall, Old Airport Road",0,Sunny,300,37,103,0
+00:00-02:00,Saturday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,704,105,0
+02:00-04:00,Monday,Indiranagar 100 Feet Road,0,Sunny,400,41,74,0
+04:00-06:00,Sunday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,506,150,0
+04:00-06:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,440,63,1
+14:00-16:00,Friday,Indiranagar 100 Feet Road,0,Cloudy,400,108,69,0
+02:00-04:00,Monday,KR Market Parking Complex,0,Windy,370,22,104,0
+12:00-14:00,Saturday,Jayanagar 4th Block,0,Windy,550,104,108,0
+20:00-22:00,Sunday,JC Road Multi-Level Parking,0,Windy,300,12,15,0
+00:00-02:00,Sunday,Brigade Road,1,Cloudy,385,17,82,0
+00:00-02:00,Friday,Jayanagar 4th Block,0,Cloudy,550,55,147,0
+02:00-04:00,Sunday,"Total Mall, Old Airport Road",0,Cloudy,300,45,44,1
+22:00-24:00,Tuesday,"Total Mall, Old Airport Road",0,Sunny,300,22,108,0
+20:00-22:00,Thursday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,194,95,1
+12:00-14:00,Wednesday,Indiranagar 100 Feet Road,1,Sunny,400,43,35,1
+16:00-18:00,Monday,"Orion Mall, Malleshwaram",0,Cloudy,6200,519,157,1
+18:00-20:00,Friday,KR Market Parking Complex,1,Rainy,370,6,49,1
+02:00-04:00,Tuesday,"Orion Mall, Malleshwaram",0,Windy,6200,1349,280,0
+20:00-22:00,Monday,Brigade Road,1,Cloudy,385,6,29,0
+14:00-16:00,Sunday,Jayanagar 4th Block,0,Sunny,550,83,53,0
+08:00-10:00,Sunday,Jayanagar 4th Block,0,Sunny,550,112,67,1
+10:00-12:00,Tuesday,JC Road Multi-Level Parking,0,Rainy,300,108,68,0
+04:00-06:00,Sunday,"Manyata Tech Park, Hebbal",0,Rainy,1700,134,210,0
+22:00-24:00,Tuesday,"Manyata Tech Park, Hebbal",0,Sunny,1700,239,127,0
+22:00-24:00,Friday,KR Market Parking Complex,1,Sunny,370,16,92,0
+10:00-12:00,Saturday,"Total Mall, Old Airport Road",0,Windy,300,28,48,0
+20:00-22:00,Tuesday,"Total Mall, Old Airport Road",1,Windy,300,8,22,0
+02:00-04:00,Monday,Brigade Road,0,Cloudy,385,57,157,0
+12:00-14:00,Wednesday,"Orion Mall, Malleshwaram",1,Sunny,6200,2690,373,0
+00:00-02:00,Friday,Jayanagar 4th Block,0,Cloudy,550,156,216,0
+20:00-22:00,Thursday,Church Street,0,Sunny,500,49,91,0
+00:00-02:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,980,120,0
+18:00-20:00,Saturday,Church Street,1,Sunny,500,23,27,0
+06:00-08:00,Tuesday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,644,253,0
+14:00-16:00,Monday,Indiranagar 100 Feet Road,0,Windy,400,58,69,0
+06:00-08:00,Sunday,"Orion Mall, Malleshwaram",1,Rainy,6200,1488,391,0
+04:00-06:00,Friday,Brigade Road,1,Rainy,385,18,44,0
+04:00-06:00,Saturday,Jayanagar 4th Block,0,Rainy,550,31,51,0
+16:00-18:00,Friday,KR Market Parking Complex,0,Windy,370,15,91,0
+08:00-10:00,Monday,"Total Mall, Old Airport Road",0,Rainy,300,18,44,1
+02:00-04:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,805,132,0
+04:00-06:00,Friday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,154,108,1
+06:00-08:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,532,272,0
+20:00-22:00,Saturday,"Total Mall, Old Airport Road",0,Sunny,300,10,37,0
+10:00-12:00,Friday,Church Street,0,Windy,500,72,159,0
+22:00-24:00,Wednesday,Jayanagar 4th Block,0,Rainy,550,188,157,0
+18:00-20:00,Wednesday,Commercial Street,0,Cloudy,325,22,75,0
+22:00-24:00,Saturday,"Total Mall, Old Airport Road",0,Sunny,300,30,44,0
+12:00-14:00,Sunday,Church Street,1,Cloudy,500,57,76,0
+00:00-02:00,Monday,JC Road Multi-Level Parking,0,Sunny,300,38,79,0
+04:00-06:00,Sunday,Freedom Park,1,Rainy,1400,273,174,0
+00:00-02:00,Monday,Brigade Road,0,Windy,385,33,129,0
+12:00-14:00,Wednesday,Indiranagar 100 Feet Road,0,Cloudy,400,95,176,0
+10:00-12:00,Friday,Citywide Parking Overview,1,Cloudy,5300,260,1069,0
+18:00-20:00,Saturday,Jayanagar 4th Block,0,Cloudy,550,48,30,0
+00:00-02:00,Wednesday,Citywide Parking Overview,0,Windy,5300,399,1667,0
+08:00-10:00,Thursday,Jayanagar 4th Block,0,Windy,550,86,102,0
+20:00-22:00,Sunday,JC Road Multi-Level Parking,0,Windy,300,26,12,0
+22:00-24:00,Sunday,Church Street,0,Cloudy,500,67,58,1
+20:00-22:00,Sunday,Indiranagar 100 Feet Road,0,Windy,400,16,18,0
+12:00-14:00,Sunday,"Orion Mall, Malleshwaram",0,Sunny,6200,950,221,0
+14:00-16:00,Tuesday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1073,281,1
+20:00-22:00,Tuesday,Freedom Park,0,Windy,1400,224,42,0
+04:00-06:00,Saturday,Indiranagar 100 Feet Road,0,Rainy,400,41,54,0
+22:00-24:00,Monday,Commercial Street,0,Rainy,325,35,185,0
+22:00-24:00,Tuesday,JC Road Multi-Level Parking,0,Windy,300,66,49,0
+14:00-16:00,Friday,KR Market Parking Complex,1,Cloudy,370,21,76,0
+10:00-12:00,Saturday,"Mantri Square Mall, Malleswaram",0,Windy,2350,411,156,0
+22:00-24:00,Friday,Church Street,1,Windy,500,66,56,0
+10:00-12:00,Tuesday,Church Street,1,Rainy,500,30,57,1
+04:00-06:00,Monday,"Manyata Tech Park, Hebbal",0,Sunny,1700,604,217,0
+14:00-16:00,Thursday,Indiranagar 100 Feet Road,1,Windy,400,70,62,0
+02:00-04:00,Thursday,Jayanagar 4th Block,0,Cloudy,550,190,131,0
+10:00-12:00,Monday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,1089,306,0
+04:00-06:00,Wednesday,Brigade Road,0,Rainy,385,46,130,0
+00:00-02:00,Monday,"Orion Mall, Malleshwaram",0,Windy,6200,1411,496,0
+10:00-12:00,Wednesday,"Total Mall, Old Airport Road",0,Sunny,300,36,87,0
+14:00-16:00,Monday,Freedom Park,0,Rainy,1400,542,300,0
+00:00-02:00,Friday,"Mantri Square Mall, Malleswaram",0,Windy,2350,337,164,1
+20:00-22:00,Saturday,Church Street,0,Sunny,500,23,38,0
+04:00-06:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,245,111,1
+08:00-10:00,Tuesday,Jayanagar 4th Block,1,Rainy,550,62,115,0
+16:00-18:00,Thursday,Church Street,1,Windy,500,28,26,0
+00:00-02:00,Friday,KR Market Parking Complex,0,Cloudy,370,43,170,0
+02:00-04:00,Sunday,"Manyata Tech Park, Hebbal",0,Windy,1700,226,91,0
+02:00-04:00,Tuesday,"Orion Mall, Malleshwaram",0,Rainy,6200,2372,639,0
+08:00-10:00,Wednesday,Jayanagar 4th Block,0,Sunny,550,95,48,1
+10:00-12:00,Saturday,Jayanagar 4th Block,0,Rainy,550,85,93,0
+06:00-08:00,Thursday,JC Road Multi-Level Parking,0,Rainy,300,48,85,0
+22:00-24:00,Saturday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,473,198,0
+18:00-20:00,Friday,Freedom Park,1,Windy,1400,123,78,0
+14:00-16:00,Sunday,Freedom Park,0,Rainy,1400,183,209,0
+12:00-14:00,Tuesday,Citywide Parking Overview,0,Rainy,5300,396,918,0
+14:00-16:00,Monday,"Orion Mall, Malleshwaram",0,Sunny,6200,1645,369,0
+12:00-14:00,Thursday,"Manyata Tech Park, Hebbal",0,Rainy,1700,346,134,0
+16:00-18:00,Tuesday,JC Road Multi-Level Parking,0,Sunny,300,29,17,1
+14:00-16:00,Monday,Commercial Street,1,Sunny,325,25,98,0
+22:00-24:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,576,215,0
+10:00-12:00,Sunday,"Manyata Tech Park, Hebbal",0,Rainy,1700,347,129,0
+18:00-20:00,Thursday,"Phoenix Marketcity, Whitefield",1,Rainy,2200,150,38,0
+06:00-08:00,Saturday,Commercial Street,0,Sunny,325,14,76,0
+02:00-04:00,Friday,Citywide Parking Overview,0,Sunny,5300,754,1568,0
+16:00-18:00,Sunday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,134,81,0
+14:00-16:00,Saturday,Church Street,0,Cloudy,500,47,50,1
+20:00-22:00,Tuesday,Brigade Road,0,Cloudy,385,10,24,1
+04:00-06:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,141,90,1
+20:00-22:00,Monday,Citywide Parking Overview,0,Windy,5300,352,569,0
+02:00-04:00,Thursday,Jayanagar 4th Block,0,Sunny,550,154,122,0
+14:00-16:00,Monday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,685,331,0
+20:00-22:00,Thursday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,292,85,1
+10:00-12:00,Monday,Indiranagar 100 Feet Road,0,Sunny,400,74,111,0
+02:00-04:00,Thursday,"Total Mall, Old Airport Road",0,Windy,300,26,107,0
+10:00-12:00,Saturday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,376,124,0
+12:00-14:00,Tuesday,Brigade Road,0,Sunny,385,44,107,0
+20:00-22:00,Tuesday,"International Tech Park (ITPL), Whitefield",1,Windy,1400,231,58,0
+22:00-24:00,Monday,Indiranagar 100 Feet Road,0,Cloudy,400,80,126,0
+08:00-10:00,Wednesday,Citywide Parking Overview,0,Windy,5300,193,686,1
+10:00-12:00,Thursday,"Orion Mall, Malleshwaram",0,Windy,6200,1973,594,0
+08:00-10:00,Saturday,Church Street,0,Rainy,500,53,76,1
+02:00-04:00,Wednesday,"Phoenix Marketcity, Whitefield",1,Rainy,2200,334,182,0
+00:00-02:00,Thursday,JC Road Multi-Level Parking,0,Cloudy,300,74,83,0
+22:00-24:00,Monday,Church Street,0,Windy,500,77,175,0
+10:00-12:00,Friday,"Orion Mall, Malleshwaram",0,Sunny,6200,1306,681,0
+06:00-08:00,Monday,Citywide Parking Overview,0,Windy,5300,456,2169,0
+00:00-02:00,Tuesday,Commercial Street,0,Cloudy,325,39,131,0
+08:00-10:00,Thursday,Indiranagar 100 Feet Road,0,Cloudy,400,34,142,0
+08:00-10:00,Sunday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,397,78,1
+06:00-08:00,Sunday,Jayanagar 4th Block,0,Windy,550,83,72,0
+10:00-12:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,291,70,1
+22:00-24:00,Thursday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,1041,173,0
+16:00-18:00,Wednesday,Brigade Road,0,Sunny,385,18,42,0
+04:00-06:00,Monday,"Total Mall, Old Airport Road",0,Rainy,300,29,121,0
+10:00-12:00,Monday,Freedom Park,0,Rainy,1400,447,86,1
+14:00-16:00,Saturday,"Total Mall, Old Airport Road",0,Windy,300,12,48,0
+22:00-24:00,Saturday,"Manyata Tech Park, Hebbal",0,Rainy,1700,308,124,0
+18:00-20:00,Friday,JC Road Multi-Level Parking,0,Windy,300,18,11,1
+04:00-06:00,Saturday,JC Road Multi-Level Parking,0,Windy,300,29,38,0
+10:00-12:00,Friday,Brigade Road,0,Windy,385,24,130,1
+02:00-04:00,Sunday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,454,102,0
+08:00-10:00,Friday,Church Street,0,Sunny,500,67,86,1
+14:00-16:00,Monday,Citywide Parking Overview,0,Cloudy,5300,1034,1711,0
+10:00-12:00,Friday,Brigade Road,0,Windy,385,55,206,0
+02:00-04:00,Thursday,"Manyata Tech Park, Hebbal",0,Windy,1700,567,238,0
+16:00-18:00,Tuesday,Freedom Park,0,Rainy,1400,318,59,0
+06:00-08:00,Saturday,"Manyata Tech Park, Hebbal",1,Sunny,1700,130,136,0
+12:00-14:00,Sunday,Jayanagar 4th Block,0,Windy,550,72,92,1
+00:00-02:00,Monday,Jayanagar 4th Block,0,Sunny,550,62,102,0
+00:00-02:00,Friday,Commercial Street,0,Windy,325,44,146,0
+16:00-18:00,Wednesday,Church Street,0,Cloudy,500,48,85,0
+04:00-06:00,Monday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,225,96,0
+22:00-24:00,Monday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,242,63,1
+14:00-16:00,Saturday,KR Market Parking Complex,0,Windy,370,19,66,0
+20:00-22:00,Friday,Freedom Park,0,Rainy,1400,192,66,1
+08:00-10:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,256,99,0
+22:00-24:00,Thursday,Church Street,0,Windy,500,77,203,0
+08:00-10:00,Tuesday,KR Market Parking Complex,1,Sunny,370,12,37,1
+04:00-06:00,Friday,KR Market Parking Complex,0,Rainy,370,17,85,0
+12:00-14:00,Tuesday,Citywide Parking Overview,0,Cloudy,5300,632,2486,0
+02:00-04:00,Tuesday,Citywide Parking Overview,0,Rainy,5300,215,959,1
+14:00-16:00,Friday,"Orion Mall, Malleshwaram",0,Sunny,6200,1093,288,1
+14:00-16:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,457,422,0
+14:00-16:00,Tuesday,"Total Mall, Old Airport Road",0,Rainy,300,57,116,0
+00:00-02:00,Wednesday,Freedom Park,0,Cloudy,1400,581,92,0
+08:00-10:00,Monday,Indiranagar 100 Feet Road,0,Sunny,400,78,125,0
+10:00-12:00,Monday,Brigade Road,0,Sunny,385,40,133,0
+04:00-06:00,Friday,"Orion Mall, Malleshwaram",1,Rainy,6200,1485,377,0
+16:00-18:00,Saturday,Jayanagar 4th Block,0,Rainy,550,41,20,0
+20:00-22:00,Thursday,Citywide Parking Overview,0,Cloudy,5300,218,674,0
+12:00-14:00,Monday,Freedom Park,0,Sunny,1400,566,92,0
+22:00-24:00,Sunday,"Mantri Square Mall, Malleswaram",0,Windy,2350,408,87,0
+02:00-04:00,Saturday,"Total Mall, Old Airport Road",0,Windy,300,29,43,0
+20:00-22:00,Thursday,"Total Mall, Old Airport Road",0,Cloudy,300,13,55,0
+20:00-22:00,Wednesday,Freedom Park,0,Cloudy,1400,327,71,0
+08:00-10:00,Monday,KR Market Parking Complex,0,Rainy,370,45,138,0
+14:00-16:00,Monday,"Total Mall, Old Airport Road",0,Sunny,300,25,21,1
+02:00-04:00,Tuesday,Church Street,0,Sunny,500,37,57,1
+12:00-14:00,Friday,Citywide Parking Overview,0,Windy,5300,298,1493,0
+06:00-08:00,Sunday,JC Road Multi-Level Parking,1,Cloudy,300,21,39,1
+06:00-08:00,Wednesday,Freedom Park,0,Windy,1400,225,234,0
+12:00-14:00,Wednesday,Brigade Road,1,Cloudy,385,19,68,1
+22:00-24:00,Sunday,Citywide Parking Overview,0,Rainy,5300,347,1506,0
+16:00-18:00,Friday,Indiranagar 100 Feet Road,0,Sunny,400,14,32,1
+18:00-20:00,Thursday,Jayanagar 4th Block,0,Sunny,550,35,88,0
+06:00-08:00,Monday,Brigade Road,0,Sunny,385,49,121,0
+00:00-02:00,Saturday,"Orion Mall, Malleshwaram",0,Windy,6200,1342,162,1
+02:00-04:00,Friday,Citywide Parking Overview,1,Windy,5300,351,1336,0
+10:00-12:00,Wednesday,JC Road Multi-Level Parking,0,Windy,300,43,69,0
+22:00-24:00,Friday,"Total Mall, Old Airport Road",0,Sunny,300,32,46,1
+18:00-20:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Windy,2350,465,129,1
+06:00-08:00,Wednesday,Indiranagar 100 Feet Road,0,Cloudy,400,40,41,1
+00:00-02:00,Friday,Church Street,0,Sunny,500,40,105,0
+16:00-18:00,Friday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,219,120,0
+18:00-20:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,187,50,0
+22:00-24:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,260,90,0
+10:00-12:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,486,318,0
+18:00-20:00,Wednesday,Citywide Parking Overview,0,Rainy,5300,306,892,0
+10:00-12:00,Thursday,JC Road Multi-Level Parking,0,Sunny,300,87,51,0
+00:00-02:00,Tuesday,Citywide Parking Overview,0,Windy,5300,518,1168,0
+22:00-24:00,Tuesday,Church Street,0,Windy,500,81,135,0
+20:00-22:00,Wednesday,Citywide Parking Overview,1,Cloudy,5300,76,369,0
+18:00-20:00,Thursday,Indiranagar 100 Feet Road,0,Windy,400,25,55,0
+00:00-02:00,Thursday,Commercial Street,0,Cloudy,325,26,64,1
+12:00-14:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,627,260,0
+10:00-12:00,Monday,"Mantri Square Mall, Malleswaram",1,Cloudy,2350,453,179,1
+04:00-06:00,Sunday,"Orion Mall, Malleshwaram",1,Rainy,6200,1938,130,0
+18:00-20:00,Monday,KR Market Parking Complex,0,Windy,370,16,40,0
+10:00-12:00,Saturday,JC Road Multi-Level Parking,0,Windy,300,62,27,0
+06:00-08:00,Monday,"Orion Mall, Malleshwaram",0,Cloudy,6200,2589,333,0
+06:00-08:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,775,178,1
+16:00-18:00,Saturday,Commercial Street,0,Sunny,325,16,14,0
+18:00-20:00,Monday,"Total Mall, Old Airport Road",0,Windy,300,23,32,0
+04:00-06:00,Wednesday,Jayanagar 4th Block,0,Windy,550,147,128,0
+00:00-02:00,Sunday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1232,290,1
+20:00-22:00,Sunday,Church Street,0,Sunny,500,21,59,0
+06:00-08:00,Saturday,Jayanagar 4th Block,0,Windy,550,62,97,0
+06:00-08:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,833,210,0
+20:00-22:00,Monday,"Total Mall, Old Airport Road",0,Rainy,300,20,60,0
+02:00-04:00,Monday,Jayanagar 4th Block,0,Windy,550,170,81,0
+00:00-02:00,Monday,Citywide Parking Overview,0,Rainy,5300,814,1860,0
+18:00-20:00,Wednesday,JC Road Multi-Level Parking,0,Sunny,300,45,53,0
+10:00-12:00,Saturday,"Total Mall, Old Airport Road",0,Windy,300,43,59,0
+18:00-20:00,Sunday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,137,38,1
+18:00-20:00,Friday,Indiranagar 100 Feet Road,0,Windy,400,21,31,1
+00:00-02:00,Sunday,Freedom Park,0,Rainy,1400,498,66,1
+00:00-02:00,Friday,"Orion Mall, Malleshwaram",1,Windy,6200,913,359,1
+04:00-06:00,Monday,Brigade Road,1,Cloudy,385,13,82,0
+16:00-18:00,Monday,Church Street,0,Windy,500,63,114,0
+08:00-10:00,Wednesday,Jayanagar 4th Block,0,Windy,550,52,127,0
+04:00-06:00,Monday,Church Street,0,Windy,500,85,119,0
+06:00-08:00,Tuesday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,611,310,0
+10:00-12:00,Friday,"International Tech Park (ITPL), Whitefield",0,Windy,1400,274,191,0
+16:00-18:00,Tuesday,Freedom Park,0,Cloudy,1400,121,60,1
+06:00-08:00,Sunday,Brigade Road,0,Rainy,385,13,79,0
+08:00-10:00,Friday,"Total Mall, Old Airport Road",0,Rainy,300,26,48,0
+02:00-04:00,Sunday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,430,142,1
+20:00-22:00,Tuesday,"Manyata Tech Park, Hebbal",0,Sunny,1700,198,84,0
+06:00-08:00,Thursday,Jayanagar 4th Block,0,Sunny,550,67,140,0
+18:00-20:00,Tuesday,"Manyata Tech Park, Hebbal",0,Rainy,1700,163,171,0
+10:00-12:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,692,172,0
+10:00-12:00,Sunday,Citywide Parking Overview,1,Cloudy,5300,582,674,0
+02:00-04:00,Sunday,Jayanagar 4th Block,0,Windy,550,77,54,0
+14:00-16:00,Wednesday,"Orion Mall, Malleshwaram",0,Rainy,6200,3082,442,0
+12:00-14:00,Sunday,"Total Mall, Old Airport Road",0,Windy,300,30,60,0
+22:00-24:00,Saturday,JC Road Multi-Level Parking,0,Rainy,300,57,22,1
+16:00-18:00,Wednesday,"Orion Mall, Malleshwaram",0,Rainy,6200,1393,138,0
+16:00-18:00,Saturday,Brigade Road,0,Windy,385,14,23,0
+04:00-06:00,Friday,JC Road Multi-Level Parking,1,Rainy,300,50,42,0
+06:00-08:00,Monday,Brigade Road,0,Cloudy,385,53,193,0
+14:00-16:00,Friday,"Phoenix Marketcity, Whitefield",0,Windy,2200,386,275,0
+08:00-10:00,Saturday,"Orion Mall, Malleshwaram",0,Rainy,6200,2305,274,0
+22:00-24:00,Sunday,Freedom Park,1,Cloudy,1400,372,180,0
+10:00-12:00,Sunday,"Total Mall, Old Airport Road",0,Windy,300,26,24,0
+04:00-06:00,Wednesday,"Phoenix Marketcity, Whitefield",0,Rainy,2200,505,161,0
+18:00-20:00,Monday,"Total Mall, Old Airport Road",1,Cloudy,300,15,20,0
+16:00-18:00,Monday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,185,57,0
+12:00-14:00,Friday,"Orion Mall, Malleshwaram",0,Rainy,6200,2823,352,0
+08:00-10:00,Friday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,658,104,0
+10:00-12:00,Tuesday,"Orion Mall, Malleshwaram",1,Cloudy,6200,2001,193,0
+16:00-18:00,Thursday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,407,113,0
+06:00-08:00,Thursday,"Total Mall, Old Airport Road",0,Sunny,300,35,125,0
+08:00-10:00,Thursday,Brigade Road,0,Cloudy,385,22,91,1
+16:00-18:00,Thursday,"Manyata Tech Park, Hebbal",0,Sunny,1700,311,95,0
+02:00-04:00,Saturday,"Total Mall, Old Airport Road",1,Sunny,300,17,38,1
+22:00-24:00,Sunday,"Total Mall, Old Airport Road",0,Sunny,300,27,99,0
+14:00-16:00,Friday,KR Market Parking Complex,0,Sunny,370,16,82,0
+06:00-08:00,Tuesday,KR Market Parking Complex,0,Rainy,370,18,134,0
+00:00-02:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,308,198,0
+20:00-22:00,Saturday,KR Market Parking Complex,0,Cloudy,370,8,62,0
+20:00-22:00,Thursday,Freedom Park,0,Windy,1400,103,60,1
+08:00-10:00,Friday,Indiranagar 100 Feet Road,0,Cloudy,400,22,56,1
+04:00-06:00,Tuesday,Indiranagar 100 Feet Road,0,Windy,400,19,75,1
+14:00-16:00,Thursday,JC Road Multi-Level Parking,1,Cloudy,300,37,57,1
+20:00-22:00,Monday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1388,275,0
+16:00-18:00,Thursday,Jayanagar 4th Block,0,Rainy,550,65,86,0
+10:00-12:00,Sunday,"Mantri Square Mall, Malleswaram",0,Cloudy,2350,802,181,1
+10:00-12:00,Monday,"Phoenix Marketcity, Whitefield",0,Windy,2200,467,281,0
+00:00-02:00,Wednesday,"Manyata Tech Park, Hebbal",0,Rainy,1700,448,94,1
+14:00-16:00,Friday,"Manyata Tech Park, Hebbal",0,Rainy,1700,720,170,0
+16:00-18:00,Wednesday,Jayanagar 4th Block,0,Sunny,550,33,90,0
+02:00-04:00,Saturday,Jayanagar 4th Block,0,Sunny,550,40,54,0
+04:00-06:00,Saturday,"Manyata Tech Park, Hebbal",0,Rainy,1700,132,77,0
+20:00-22:00,Saturday,Brigade Road,0,Rainy,385,18,52,0
+14:00-16:00,Sunday,Commercial Street,1,Sunny,325,25,73,0
+14:00-16:00,Thursday,JC Road Multi-Level Parking,0,Sunny,300,52,39,0
+08:00-10:00,Sunday,Jayanagar 4th Block,1,Rainy,550,32,105,0
+04:00-06:00,Tuesday,"Orion Mall, Malleshwaram",0,Cloudy,6200,1877,628,0
+12:00-14:00,Saturday,"Total Mall, Old Airport Road",0,Cloudy,300,31,65,1
+02:00-04:00,Friday,JC Road Multi-Level Parking,0,Cloudy,300,66,84,0
+12:00-14:00,Friday,Brigade Road,0,Windy,385,24,44,1
+20:00-22:00,Thursday,Commercial Street,0,Cloudy,325,15,49,0
+06:00-08:00,Tuesday,"Mantri Square Mall, Malleswaram",0,Sunny,2350,737,96,1
+18:00-20:00,Saturday,"International Tech Park (ITPL), Whitefield",0,Cloudy,1400,113,37,0
+08:00-10:00,Friday,"Orion Mall, Malleshwaram",1,Cloudy,6200,787,362,0
+02:00-04:00,Saturday,Freedom Park,0,Rainy,1400,272,97,0
+20:00-22:00,Saturday,Indiranagar 100 Feet Road,0,Cloudy,400,22,19,1
+02:00-04:00,Tuesday,"Orion Mall, Malleshwaram",0,Windy,6200,2660,371,0
+02:00-04:00,Friday,KR Market Parking Complex,0,Cloudy,370,21,137,0
+04:00-06:00,Thursday,"Orion Mall, Malleshwaram",0,Rainy,6200,2721,168,1
+20:00-22:00,Thursday,Indiranagar 100 Feet Road,0,Rainy,400,34,34,0
+12:00-14:00,Sunday,JC Road Multi-Level Parking,1,Windy,300,41,17,0
+18:00-20:00,Monday,"Manyata Tech Park, Hebbal",0,Windy,1700,121,86,1
+18:00-20:00,Saturday,"Manyata Tech Park, Hebbal",0,Sunny,1700,76,76,0
+14:00-16:00,Thursday,Indiranagar 100 Feet Road,0,Rainy,400,67,89,1
+10:00-12:00,Saturday,KR Market Parking Complex,0,Rainy,370,12,109,0
+10:00-12:00,Monday,Indiranagar 100 Feet Road,0,Windy,400,115,135,0
+16:00-18:00,Tuesday,Citywide Parking Overview,0,Cloudy,5300,151,691,0
+02:00-04:00,Friday,JC Road Multi-Level Parking,0,Sunny,300,60,51,0
+14:00-16:00,Friday,Jayanagar 4th Block,1,Rainy,550,46,91,0
+02:00-04:00,Monday,Citywide Parking Overview,0,Sunny,5300,467,2579,0
+10:00-12:00,Tuesday,JC Road Multi-Level Parking,0,Windy,300,46,32,1
+22:00-24:00,Thursday,Indiranagar 100 Feet Road,0,Windy,400,48,78,1
+14:00-16:00,Friday,Jayanagar 4th Block,0,Sunny,550,38,98,1
+22:00-24:00,Sunday,"Manyata Tech Park, Hebbal",0,Cloudy,1700,253,57,0
+10:00-12:00,Monday,KR Market Parking Complex,0,Cloudy,370,39,138,0
+08:00-10:00,Thursday,"Manyata Tech Park, Hebbal",0,Rainy,1700,186,152,1
+10:00-12:00,Friday,Jayanagar 4th Block,1,Sunny,550,79,65,1
+08:00-10:00,Saturday,"Manyata Tech Park, Hebbal",0,Windy,1700,140,228,0
+18:00-20:00,Sunday,"Total Mall, Old Airport Road",1,Rainy,300,8,18,0
+18:00-20:00,Thursday,"Manyata Tech Park, Hebbal",0,Rainy,1700,190,109,0
+18:00-20:00,Thursday,Citywide Parking Overview,0,Windy,5300,200,539,0
+20:00-22:00,Thursday,"Mantri Square Mall, Malleswaram",0,Windy,2350,659,72,0
+20:00-22:00,Wednesday,Freedom Park,0,Windy,1400,300,90,0
+20:00-22:00,Tuesday,Indiranagar 100 Feet Road,0,Cloudy,400,39,35,0
+00:00-02:00,Friday,JC Road Multi-Level Parking,0,Sunny,300,20,71,1
+18:00-20:00,Sunday,Brigade Road,0,Windy,385,9,33,0
+12:00-14:00,Tuesday,"Manyata Tech Park, Hebbal",0,Rainy,1700,695,195,0
+16:00-18:00,Sunday,JC Road Multi-Level Parking,1,Rainy,300,16,31,1
+06:00-08:00,Thursday,Indiranagar 100 Feet Road,1,Cloudy,400,51,38,0
+08:00-10:00,Sunday,"International Tech Park (ITPL), Whitefield",1,Cloudy,1400,168,99,0
+16:00-18:00,Sunday,Freedom Park,0,Rainy,1400,63,90,0
+06:00-08:00,Thursday,Indiranagar 100 Feet Road,0,Rainy,400,38,90,0
+18:00-20:00,Thursday,Indiranagar 100 Feet Road,0,Sunny,400,19,48,0
+04:00-06:00,Saturday,Citywide Parking Overview,0,Sunny,5300,406,1011,0
+04:00-06:00,Wednesday,JC Road Multi-Level Parking,0,Windy,300,111,73,0
+18:00-20:00,Thursday,Jayanagar 4th Block,0,Cloudy,550,46,63,0
+00:00-02:00,Wednesday,Indiranagar 100 Feet Road,0,Rainy,400,54,75,0
+02:00-04:00,Sunday,Brigade Road,0,Sunny,385,30,96,0
+12:00-14:00,Saturday,"Orion Mall, Malleshwaram",0,Cloudy,6200,2518,368,0
+02:00-04:00,Thursday,"Orion Mall, Malleshwaram",0,Sunny,6200,3320,224,0
+08:00-10:00,Sunday,Jayanagar 4th Block,0,Rainy,550,55,63,0
+16:00-18:00,Saturday,Church Street,0,Sunny,500,34,27,0
+08:00-10:00,Wednesday,KR Market Parking Complex,0,Windy,370,40,146,0
+06:00-08:00,Friday,Freedom Park,0,Cloudy,1400,432,251,0
+04:00-06:00,Wednesday,"Mantri Square Mall, Malleswaram",0,Windy,2350,751,363,0
+14:00-16:00,Thursday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,197,177,1
+04:00-06:00,Monday,Indiranagar 100 Feet Road,1,Cloudy,400,32,28,0
+22:00-24:00,Wednesday,JC Road Multi-Level Parking,1,Sunny,300,57,50,0
+20:00-22:00,Sunday,Jayanagar 4th Block,0,Sunny,550,42,41,0
+06:00-08:00,Wednesday,KR Market Parking Complex,0,Cloudy,370,19,153,0
+12:00-14:00,Wednesday,"Orion Mall, Malleshwaram",1,Sunny,6200,1671,261,0
+00:00-02:00,Wednesday,"International Tech Park (ITPL), Whitefield",0,Rainy,1400,732,161,0
+10:00-12:00,Saturday,Church Street,1,Rainy,500,44,101,0
+08:00-10:00,Saturday,Jayanagar 4th Block,0,Sunny,550,51,33,0
+08:00-10:00,Tuesday,"Manyata Tech Park, Hebbal",0,Sunny,1700,355,218,0
+04:00-06:00,Sunday,"Phoenix Marketcity, Whitefield",0,Windy,2200,569,175,0
+08:00-10:00,Friday,JC Road Multi-Level Parking,0,Sunny,300,74,53,0
+14:00-16:00,Monday,JC Road Multi-Level Parking,0,Rainy,300,93,29,0
+06:00-08:00,Tuesday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,407,115,1
+12:00-14:00,Sunday,"Orion Mall, Malleshwaram",1,Rainy,6200,1205,459,1
+08:00-10:00,Thursday,"Total Mall, Old Airport Road",1,Sunny,300,31,80,1
+10:00-12:00,Friday,Brigade Road,0,Rainy,385,36,125,0
+18:00-20:00,Saturday,Freedom Park,0,Rainy,1400,132,42,0
+10:00-12:00,Monday,"Mantri Square Mall, Malleswaram",1,Sunny,2350,805,82,1
+00:00-02:00,Wednesday,Church Street,0,Rainy,500,133,172,0
+10:00-12:00,Monday,KR Market Parking Complex,0,Cloudy,370,33,154,0
+04:00-06:00,Friday,Indiranagar 100 Feet Road,0,Rainy,400,45,132,0
+22:00-24:00,Saturday,Jayanagar 4th Block,0,Sunny,550,61,68,0
+12:00-14:00,Sunday,Citywide Parking Overview,0,Rainy,5300,322,1303,0
+08:00-10:00,Tuesday,"International Tech Park (ITPL), Whitefield",0,Sunny,1400,789,141,0
+16:00-18:00,Friday,"Manyata Tech Park, Hebbal",0,Rainy,1700,257,64,0
+18:00-20:00,Sunday,"Mantri Square Mall, Malleswaram",0,Rainy,2350,281,57,0
+02:00-04:00,Wednesday,Citywide Parking Overview,0,Rainy,5300,840,1895,0
+04:00-06:00,Monday,JC Road Multi-Level Parking,0,Windy,300,69,85,0
+22:00-24:00,Sunday,"Total Mall, Old Airport Road",1,Windy,300,25,56,0
+02:00-04:00,Thursday,Church Street,0,Windy,500,84,135,0
+22:00-24:00,Thursday,JC Road Multi-Level Parking,0,Windy,300,65,34,1
+14:00-16:00,Monday,Jayanagar 4th Block,0,Rainy,550,76,112,1
+00:00-02:00,Sunday,JC Road Multi-Level Parking,0,Windy,300,50,29,0
+06:00-08:00,Friday,Church Street,0,Rainy,500,26,84,1
+22:00-24:00,Saturday,Freedom Park,1,Windy,1400,176,86,0
+00:00-02:00,Friday,Freedom Park,0,Cloudy,1400,541,128,0
+18:00-20:00,Monday,"Phoenix Marketcity, Whitefield",0,Sunny,2200,208,142,0
+08:00-10:00,Friday,"Manyata Tech Park, Hebbal",0,Rainy,1700,548,291,0
+22:00-24:00,Monday,"Orion Mall, Malleshwaram",0,Cloudy,6200,3311,609,0
+18:00-20:00,Friday,Church Street,0,Windy,500,23,81,0
+12:00-14:00,Saturday,Freedom Park,1,Rainy,1400,190,74,0
+14:00-16:00,Wednesday,Indiranagar 100 Feet Road,0,Rainy,400,17,66,1
+10:00-12:00,Monday,Commercial Street,0,Sunny,325,33,94,0
+00:00-02:00,Sunday,"Manyata Tech Park, Hebbal",1,Cloudy,1700,445,82,0
+22:00-24:00,Saturday,Citywide Parking Overview,0,Windy,5300,419,1263,0
+08:00-10:00,Sunday,"Phoenix Marketcity, Whitefield",0,Cloudy,2200,375,75,0
+20:00-22:00,Saturday,"Total Mall, Old Airport Road",0,Sunny,300,14,34,0
+20:00-22:00,Sunday,JC Road Multi-Level Parking,0,Windy,300,23,23,0
+04:00-06:00,Tuesday,JC Road Multi-Level Parking,0,Windy,300,78,78,0
